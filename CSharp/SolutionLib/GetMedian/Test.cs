@@ -14,7 +14,7 @@ namespace SolutionLib.GetMedian
             //    nums5 = {-1, 3},
             //    nums6 = {2, 3, 4};
 
-            Solution s = new Solution();
+            Solution2 s = new Solution2();
 
             List<int> nums1 = new List<int>();
             List<int> nums2 = new List<int>();
@@ -24,11 +24,13 @@ namespace SolutionLib.GetMedian
             s2 = s2.Substring(1, s2.Length - 2);
             foreach (var num in s1.Split(','))
             {
+                if (num == "") continue;
                 nums1.Add(Int32.Parse(num));
             }
 
             foreach (var num in s2.Split(','))
             {
+                if (num == "") continue;
                 nums2.Add(Int32.Parse(num));
             }
 

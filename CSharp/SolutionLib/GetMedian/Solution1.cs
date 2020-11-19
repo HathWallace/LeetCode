@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace SolutionLib.GetMedian
 {
-    public class Solution
+    public class Solution1
     {
         public double FindMedianSortedArrays(int[] nums1, int[] nums2)
         {

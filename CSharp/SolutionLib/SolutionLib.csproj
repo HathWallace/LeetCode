@@ -40,9 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GetMedian\Solution.cs" />
+    <Compile Include="GetMedian\Solution1.cs" />
+    <Compile Include="GetMedian\Solution2.cs" />
     <Compile Include="GetMedian\Test.cs" />
-    <Compile Include="GetMedian\Wrong.cs" />
+    <Compile Include="GetMedian\Wrong1.cs" />
+    <Compile Include="GetMedian\Wrong2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
