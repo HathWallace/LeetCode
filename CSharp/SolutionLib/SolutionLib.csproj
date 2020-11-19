@@ -45,6 +45,8 @@
     <Compile Include="GetMedian\Test.cs" />
     <Compile Include="GetMedian\Wrong1.cs" />
     <Compile Include="GetMedian\Wrong2.cs" />
+    <Compile Include="MoveZero\Solution.cs" />
+    <Compile Include="MoveZero\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

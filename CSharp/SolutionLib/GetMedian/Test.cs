@@ -14,7 +14,7 @@ namespace SolutionLib.GetMedian
             //    nums5 = {-1, 3},
             //    nums6 = {2, 3, 4};
 
-            Solution2 s = new Solution2();
+            //Solution2 s = new Solution2();
 
             List<int> nums1 = new List<int>();
             List<int> nums2 = new List<int>();
@@ -34,7 +34,7 @@ namespace SolutionLib.GetMedian
                 nums2.Add(Int32.Parse(num));
             }
 
-            Console.WriteLine(s.FindMedianSortedArrays(nums1.ToArray(), nums2.ToArray()));
+            //Console.WriteLine(s.FindMedianSortedArrays(nums1.ToArray(), nums2.ToArray()));
 
 
         }
