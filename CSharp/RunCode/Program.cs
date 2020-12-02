@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib.MoveZero;
+using SolutionLib.MaxNumber;
 
 namespace RunCode
 {
