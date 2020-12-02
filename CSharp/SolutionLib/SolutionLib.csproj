@@ -40,12 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckPossibility\Solution.cs" />
+    <Compile Include="CheckPossibility\Solution3.cs" />
+    <Compile Include="CheckPossibility\Test.cs" />
     <Compile Include="GetMedian\Solution1.cs" />
     <Compile Include="GetMedian\Solution2.cs" />
     <Compile Include="GetMedian\Test.cs" />
     <Compile Include="GetMedian\Wrong1.cs" />
     <Compile Include="GetMedian\Wrong2.cs" />
     <Compile Include="MaxNumber\Solution.cs" />
+    <Compile Include="CheckPossibility\Solution2.cs" />
     <Compile Include="MaxNumber\Test.cs" />
     <Compile Include="MoveZero\Solution.cs" />
     <Compile Include="MoveZero\Test.cs" />

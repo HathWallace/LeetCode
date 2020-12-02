@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib.MaxNumber;
+using SolutionLib.CheckPossibility;
 
 namespace RunCode
 {
