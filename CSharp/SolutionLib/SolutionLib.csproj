@@ -51,9 +51,9 @@
     <Compile Include="GetMedian\Test.cs" />
     <Compile Include="GetMedian\Wrong1.cs" />
     <Compile Include="GetMedian\Wrong2.cs" />
-    <Compile Include="MaxNumber\Solution.cs" />
+    <Compile Include="321\Solution.cs" />
     <Compile Include="CheckPossibility\Solution2.cs" />
-    <Compile Include="MaxNumber\Test.cs" />
+    <Compile Include="321\Test.cs" />
     <Compile Include="MoveZero\Solution.cs" />
     <Compile Include="MoveZero\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

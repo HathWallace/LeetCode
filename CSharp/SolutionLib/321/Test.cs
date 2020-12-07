@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib.MaxNumber
+﻿namespace SolutionLib._321
 {
     public class Test
     {
@@ -10,7 +8,7 @@ namespace SolutionLib.MaxNumber
             int[] nums2 = Public.ReadNums();
             int k = Public.ReadNum();
 
-            var s = new MaxNumber.Solution();
+            var s = new Solution();
             var res = s.MaxNumber(nums1, nums2, k);
 
             Public.PrintNums(res);

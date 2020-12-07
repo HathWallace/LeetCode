@@ -55,6 +55,7 @@ namespace SolutionLib
             str = str.Substring(1, str.Length - 2);
             foreach (var num in str.Split(','))
             {
+                if (num == "") continue;
                 res.Add(Int32.Parse(num));
             }
 
