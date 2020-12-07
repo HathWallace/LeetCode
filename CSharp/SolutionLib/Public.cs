@@ -19,12 +19,18 @@ namespace SolutionLib
 
         public static int[] ReadNums()
         {
+            return GetNums(Console.ReadLine());
+        }
+
+        public static int[][] ReadMatrix()
+        {
             string str = Console.ReadLine();
-            var res = new List<int>();
+            var res = new List<int[]>();
             str = str.Substring(1, str.Length - 2);
-            foreach (var num in str.Split(','))
+            str = str.Replace("],[", "].[");
+            foreach (var nums in str.Split('.'))
             {
-                res.Add(Int32.Parse(num));
+                res.Add(GetNums(nums));
             }
 
             return res.ToArray();
@@ -41,6 +47,18 @@ namespace SolutionLib
             }
 
             Console.WriteLine('\n');
+        }
+
+        private static int[] GetNums(string str)
+        {
+            var res = new List<int>();
+            str = str.Substring(1, str.Length - 2);
+            foreach (var num in str.Split(','))
+            {
+                res.Add(Int32.Parse(num));
+            }
+
+            return res.ToArray();
         }
     }
 }

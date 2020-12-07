@@ -11,5 +11,5 @@
 2. [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)：SolutionLib.MoveZero.Solution
 3. [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)：
 4. [665. 非递减数列](665. 非递减数列)：
-5. 
+5. [861. 翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/)：
 
