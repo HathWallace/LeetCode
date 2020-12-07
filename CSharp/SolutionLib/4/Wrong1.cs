@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib.GetMedian
+﻿namespace SolutionLib._4
 {
     public class Wrong1
     {

@@ -1,6 +1,6 @@
 ﻿//来源：https://leetcode-cn.com/problems/non-decreasing-array/solution/tan-xin-si-xiang-by-zhang-mo-san/
 
-namespace SolutionLib.CheckPossibility
+namespace SolutionLib._665
 {
     public class Solution3
     {

@@ -1,6 +1,6 @@
 ﻿//来源：https://leetcode-cn.com/problems/non-decreasing-array/solution/javatan-xin-si-lu-by-shi-qu-de-feng-5t/
 
-namespace SolutionLib.CheckPossibility
+namespace SolutionLib._665
 {
     public class Solution2
     {

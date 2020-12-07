@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SolutionLib.GetMedian
+namespace SolutionLib._4
 {
     public class Solution1
     {

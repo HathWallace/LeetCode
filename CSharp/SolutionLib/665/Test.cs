@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SolutionLib.CheckPossibility
+namespace SolutionLib._665
 {
     public class Test
     {

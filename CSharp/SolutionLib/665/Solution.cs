@@ -1,4 +1,4 @@
-﻿namespace SolutionLib.CheckPossibility
+﻿namespace SolutionLib._665
 {
     public class Solution
     {
