@@ -1,11 +1,11 @@
 # LeetCode
 
-#### 介绍
+### 介绍
 个人做题笔记本
 
 
 
-## 做题列表
+### 做题列表
 
 1. [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 
@@ -19,3 +19,14 @@
 
 6. [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
+7. [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
+
+
+
+### 小记
+
+1. xor运算的逆运算是它本身，也就是说两次异或同一个数最后结果不变，即(a xor b) xor b = a。
+
+   e.g. [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
+
+2. 

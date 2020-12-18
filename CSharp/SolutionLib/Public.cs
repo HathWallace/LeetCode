@@ -5,9 +5,14 @@ namespace SolutionLib
 {
     public class Public
     {
+        public static string ReadStr()
+        {
+            return Console.ReadLine();
+        }
+
         public static int ReadNum()
         {
-            string str = Console.ReadLine();
+            string str = ReadStr();
             int res = 0;
             foreach (var num in str)
             {
@@ -19,12 +24,12 @@ namespace SolutionLib
 
         public static int[] ReadNums()
         {
-            return GetNums(Console.ReadLine());
+            return GetNums(ReadStr());
         }
 
         public static int[][] ReadMatrix()
         {
-            string str = Console.ReadLine();
+            string str = ReadStr();
             var res = new List<int[]>();
             str = str.Substring(1, str.Length - 2);
             str = str.Replace("],[", "].[");
