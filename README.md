@@ -21,6 +21,8 @@
 
 7. [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
 
+8. [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+
 
 
 ### 小记
