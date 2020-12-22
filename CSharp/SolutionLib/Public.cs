@@ -61,6 +61,7 @@ namespace SolutionLib
             foreach (var num in str.Split(','))
             {
                 if (num == "") continue;
+
                 res.Add(Int32.Parse(num));
             }
 
