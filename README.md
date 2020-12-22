@@ -16,6 +16,8 @@
 7. [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
 8. [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 9. [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+10. [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+11. 
 
 
 
@@ -25,8 +27,12 @@
 
    e.g. [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
 
-2. 使用队列进行层序历遍
+2. 使用队列进行BFS
 
    e.g.[103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 
-3. 
+3. 线段树求解问题
+
+   e.g.[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+
+4. 
