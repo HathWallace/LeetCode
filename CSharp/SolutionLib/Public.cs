@@ -12,33 +12,20 @@ namespace SolutionLib
 
         public static int ReadNum()
         {
-            string str = ReadStr();
-            int res = 0;
-            foreach (var num in str)
-            {
-                res = res * 10 + num - '0';
-            }
-
-            return res;
+            Console.WriteLine("输入一个数，以回车结尾：");
+            return GetNum(ReadStr());
         }
 
         public static int[] ReadNums()
         {
+            Console.WriteLine("输入一组数，以回车结尾：");
             return GetNums(ReadStr());
         }
 
         public static int[][] ReadMatrix()
         {
-            string str = ReadStr();
-            var res = new List<int[]>();
-            str = str.Substring(1, str.Length - 2);
-            str = str.Replace("],[", "].[");
-            foreach (var nums in str.Split('.'))
-            {
-                res.Add(GetNums(nums));
-            }
-
-            return res.ToArray();
+            Console.WriteLine("输入一个二维数组，以回车结尾：");
+            return Get2DNums(ReadStr());
         }
 
         public static void PrintNums(int[] nums)
@@ -56,6 +43,11 @@ namespace SolutionLib
             Console.WriteLine();
         }
 
+        private static int GetNum(string str)
+        {
+            return int.Parse(str);
+        }
+
         private static int[] GetNums(string str)
         {
             var res = new List<int>();
@@ -63,8 +55,20 @@ namespace SolutionLib
             foreach (var num in str.Split(','))
             {
                 if (num == "") continue;
+                res.Add(GetNum(num));
+            }
 
-                res.Add(Int32.Parse(num));
+            return res.ToArray();
+        }
+
+        private static int[][] Get2DNums(string str)
+        {
+            var res = new List<int[]>();
+            str = str.Substring(1, str.Length - 2);
+            str = str.Replace("],[", "].[");
+            foreach (var nums in str.Split('.'))
+            {
+                res.Add(GetNums(nums));
             }
 
             return res.ToArray();

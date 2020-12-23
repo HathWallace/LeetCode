@@ -1,16 +1,24 @@
 ﻿using System;
-using SolutionLib.面试题_08._06._汉诺塔问题;
+using SolutionLib._321._拼接最大数;
 
 namespace RunCode
 {
     class Program
     {
+        private static string Title => typeof(Test)
+            .Namespace
+            .Substring("SolutionLib".Length + 1)
+            .Replace('_', ' ');
+
         static void Main(string[] args)
         {
-            Test.Run();
-
-            Console.WriteLine("End");
-            Console.ReadKey();
+            Console.WriteLine(Title + '\n');
+            do
+            {
+                Test.Run();
+                Console.WriteLine("输入回车继续，其他键退出。\n");
+            } while (Console.ReadKey().KeyChar == '\r');
         }
+
     }
 }
