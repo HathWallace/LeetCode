@@ -82,6 +82,9 @@
     <Compile Include="283\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Public.cs" />
+    <Compile Include="面试题 08.06. 汉诺塔问题\Solution.cs" />
+    <Compile Include="面试题 08.06. 汉诺塔问题\Solution2.cs" />
+    <Compile Include="面试题 08.06. 汉诺塔问题\Test.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

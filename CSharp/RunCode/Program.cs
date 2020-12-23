@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._300._最长递增子序列;
+using SolutionLib.面试题_08._06._汉诺塔问题;
 
 namespace RunCode
 {
@@ -9,6 +9,7 @@ namespace RunCode
         {
             Test.Run();
 
+            Console.WriteLine("End");
             Console.ReadKey();
         }
     }

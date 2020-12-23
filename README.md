@@ -18,7 +18,9 @@
 9. [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 10. [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 11. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
-12. 
+12. [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+13. [面试题 08.06. 汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/)
+14. 
 
 
 

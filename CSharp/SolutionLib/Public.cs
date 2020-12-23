@@ -44,14 +44,16 @@ namespace SolutionLib
         public static void PrintNums(int[] nums)
         {
             bool flag = false;
+            Console.Write('[');
             foreach (var num in nums)
             {
-                if (flag) Console.Write(" ");
+                if (flag) Console.Write(",");
                 Console.Write(num);
                 flag = true;
             }
+            Console.Write(']');
 
-            Console.WriteLine('\n');
+            Console.WriteLine();
         }
 
         private static int[] GetNums(string str)
