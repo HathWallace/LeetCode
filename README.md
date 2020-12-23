@@ -17,7 +17,8 @@
 8. [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 9. [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 10. [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
-11. 
+11. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+12. 
 
 
 
@@ -35,4 +36,8 @@
 
    e.g.[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 
-4. 
+4. 队列具有「先进先出」的性质，因此很适合用来找出第一个满足某个条件的元素。
+
+   e.g.[387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
+5. 
