@@ -69,9 +69,9 @@
     <Compile Include="4\Test.cs" />
     <Compile Include="4\Wrong1.cs" />
     <Compile Include="4\Wrong2.cs" />
-    <Compile Include="321\Solution.cs" />
+    <Compile Include="321. 拼接最大数\Solution.cs" />
     <Compile Include="665\Solution2.cs" />
-    <Compile Include="321\Test.cs" />
+    <Compile Include="321. 拼接最大数\Test.cs" />
     <Compile Include="283\Solution.cs" />
     <Compile Include="283\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
