@@ -62,6 +62,8 @@
     <Compile Include="714. 买卖股票的最佳时机含手续费\Solution.cs" />
     <Compile Include="714. 买卖股票的最佳时机含手续费\Solution2.cs" />
     <Compile Include="714. 买卖股票的最佳时机含手续费\Test.cs" />
+    <Compile Include="72. 编辑距离\Solution.cs" />
+    <Compile Include="72. 编辑距离\Test.cs" />
     <Compile Include="746. 使用最小花费爬楼梯\Solution.cs" />
     <Compile Include="746. 使用最小花费爬楼梯\Test.cs" />
     <Compile Include="861. 翻转矩阵后的得分\Solution.cs" />

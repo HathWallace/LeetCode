@@ -7,25 +7,26 @@ namespace SolutionLib
     {
         public static string ReadStr()
         {
-            return Console.ReadLine();
+            Console.WriteLine("输入一个字符串：");
+            return ReadLine();
         }
 
         public static int ReadNum()
         {
             Console.WriteLine("输入一个数，以回车结尾：");
-            return GetNum(ReadStr());
+            return GetNum(ReadLine());
         }
 
         public static int[] ReadNums()
         {
             Console.WriteLine("输入一组数，以回车结尾：");
-            return GetNums(ReadStr());
+            return GetNums(ReadLine());
         }
 
         public static int[][] ReadMatrix()
         {
             Console.WriteLine("输入一个二维数组，以回车结尾：");
-            return Get2DNums(ReadStr());
+            return Get2DNums(ReadLine());
         }
 
         public static void PrintNums(int[] nums)
@@ -41,6 +42,11 @@ namespace SolutionLib
             Console.Write(']');
 
             Console.WriteLine();
+        }
+
+        private static string ReadLine()
+        {
+            return Console.ReadLine();
         }
 
         private static int GetNum(string str)
