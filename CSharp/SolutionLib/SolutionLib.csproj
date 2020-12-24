@@ -40,6 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1. 两数之和\Solution.cs" />
+    <Compile Include="1. 两数之和\Solution_hash.cs" />
+    <Compile Include="1. 两数之和\Test.cs" />
     <Compile Include="103. 二叉树的锯齿形层序遍历\Solution.cs" />
     <Compile Include="103. 二叉树的锯齿形层序遍历\Solution2.cs" />
     <Compile Include="103. 二叉树的锯齿形层序遍历\Test.cs" />
@@ -86,6 +89,8 @@
     <Compile Include="283. 移动零\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Public.cs" />
+    <Compile Include="Solution.cs" />
+    <Compile Include="Test.cs" />
     <Compile Include="面试题 08.06. 汉诺塔问题\Solution.cs" />
     <Compile Include="面试题 08.06. 汉诺塔问题\Solution2.cs" />
     <Compile Include="面试题 08.06. 汉诺塔问题\Test.cs" />

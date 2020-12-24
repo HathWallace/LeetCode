@@ -1,18 +1,18 @@
 ﻿using System;
-using SolutionLib._135._分发糖果;
+using SolutionLib._1._两数之和;
 
 namespace RunCode
 {
     class Program
     {
-        private static string Title => typeof(Test)
-            .Namespace
-            .Substring("SolutionLib".Length + 1)
-            .Replace('_', ' ');
-
         static void Main(string[] args)
         {
-            Console.WriteLine(Title + '\n');
+            string title = typeof(Test)
+                .Namespace
+                .Substring("SolutionLib".Length + 1)
+                .Replace('_', ' ');
+            if (title[0] == ' ') title = title.Substring(1);
+            Console.WriteLine(title + '\n');
             do
             {
                 Test.Run();
