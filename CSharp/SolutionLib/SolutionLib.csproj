@@ -61,6 +61,8 @@
     <Compile Include="389. 找不同\Solution.cs" />
     <Compile Include="389. 找不同\Solution2.cs" />
     <Compile Include="389. 找不同\Test.cs" />
+    <Compile Include="455. 分发饼干\Solution.cs" />
+    <Compile Include="455. 分发饼干\Test.cs" />
     <Compile Include="53. 最大子序和\Solution.cs" />
     <Compile Include="53. 最大子序和\Solution_divide.cs" />
     <Compile Include="53. 最大子序和\Test.cs" />
