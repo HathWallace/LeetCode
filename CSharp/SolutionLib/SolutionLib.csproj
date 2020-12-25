@@ -87,6 +87,8 @@
     <Compile Include="321. 拼接最大数\Test.cs" />
     <Compile Include="283. 移动零\Solution.cs" />
     <Compile Include="283. 移动零\Test.cs" />
+    <Compile Include="912. 排序数组\Solution.cs" />
+    <Compile Include="912. 排序数组\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Public.cs" />
     <Compile Include="Solution.cs" />
