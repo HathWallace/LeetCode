@@ -77,6 +77,8 @@
     <Compile Include="103. 二叉树的锯齿形层序遍历\TreeNode.cs" />
     <Compile Include="135. 分发糖果\Solution.cs" />
     <Compile Include="135. 分发糖果\Test.cs" />
+    <Compile Include="205. 同构字符串\Solution.cs" />
+    <Compile Include="205. 同构字符串\Test.cs" />
     <Compile Include="300. 最长递增子序列\Solution.cs" />
     <Compile Include="300. 最长递增子序列\Solution_dp.cs" />
     <Compile Include="300. 最长递增子序列\Solution_greedy.cs" />
@@ -133,6 +135,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
