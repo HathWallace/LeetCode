@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._84._柱状图中最大的矩形;
+using SolutionLib._188._买卖股票的最佳时机_IV;
 
 namespace RunCode
 {
@@ -8,7 +8,7 @@ namespace RunCode
         static void Main(string[] args)
         {
             string title = typeof(Test)
-                .Namespace
+                .Namespace?
                 .Substring("SolutionLib".Length + 1)
                 .Replace('_', ' ');
             if (title[0] == ' ') title = title.Substring(1);
