@@ -89,6 +89,9 @@
     <Compile Include="322. 零钱兑换\Solution.cs" />
     <Compile Include="322. 零钱兑换\Solution_dp.cs" />
     <Compile Include="322. 零钱兑换\Test.cs" />
+    <Compile Include="330. 按要求补齐数组\Solution_greedy.cs" />
+    <Compile Include="330. 按要求补齐数组\Solution.cs" />
+    <Compile Include="330. 按要求补齐数组\Test.cs" />
     <Compile Include="387. 字符串中的第一个唯一字符\Solution.cs" />
     <Compile Include="387. 字符串中的第一个唯一字符\Test.cs" />
     <Compile Include="389. 找不同\Solution.cs" />
