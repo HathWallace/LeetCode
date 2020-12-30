@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace SolutionLib._321._拼接最大数
 {
@@ -6,70 +7,56 @@ namespace SolutionLib._321._拼接最大数
     {
         public int[] MaxNumber(int[] nums1, int[] nums2, int k)
         {
-            int m = nums1.Length, n = nums2.Length;
-
-            if (m + n == k) return MerageMax(nums1, nums2);
-
             var res = new int[k];
-            for (int i = Math.Max(0, k - n); i <= Math.Min(k, m); i++)
+            int maxi = Math.Min(k, nums1.Length);
+            for (int i = Math.Max(0, k - nums2.Length); i <= maxi; i++)
             {
-                var sub1 = MaxSub(nums1, i);
-                var sub2 = MaxSub(nums2, k - i);
-                var merge = MerageMax(sub1, sub2);
-                if (Compare(res, 0, merge, 0) < 0) res = merge;
-            }
-
-            return res;
-        }
-
-        private int[] MerageMax(int[] nums1, int[] nums2)
-        {
-            int i1 = 0, i2 = 0, ik = 0, m = nums1.Length, n = nums2.Length;
-            var res = new int[m + n];
-            while (i1 < m || i2 < n)
-            {
-                if (Compare(nums1, i1, nums2, i2) > 0)
-                    res[ik++] = nums1[i1++];
-                else
-                    res[ik++] = nums2[i2++];
-            }
-            return res;
-        }
-
-        private int[] MaxSub(int[] nums, int k)
-        {
-            var res = new int[k];
-            if (k == 0) return res;
-            int n = nums.Length, i = 0, ik = 0;
-            while (ik < k)
-            {
-                if (k - ik == n - i)
-                    res[ik++] = nums[i++];
-                else
-                {
-                    int maxI = i;
-                    for (int j = i + 1; j <= n - k + ik; j++)
-                    {
-                        maxI = nums[maxI] < nums[j] ? j : maxI;
-                    }
-                    res[ik++] = nums[maxI];
-                    i = maxI + 1;
-                }
+                var sub = Joint(MaxSubNumber(nums1, i), MaxSubNumber(nums2, k - i));
+                if (Compare(sub, 0, res, 0) > 0)
+                    res = sub;
             }
             return res;
         }
 
         private int Compare(int[] nums1, int beg1, int[] nums2, int beg2)
         {
-            int m = nums1.Length, n = nums2.Length;
-            while (beg1 < m && beg2 < n)
+            if (nums1 == null) return -1;
+            if (nums2 == null) return 1;
+            int m = nums1.Length, n = nums2.Length, i = beg1, j = beg2;
+            for (; i < m && j < n; i++, j++)
+                if (nums1[i] != nums2[j]) return nums1[i] - nums2[j];
+            return (m - i) - (n - j);
+        }
+
+        private int[] MaxSubNumber(int[] nums, int k)
+        {
+            if (k == 0) return null;
+            var res = new int[k];
+            int top = -1, remain = nums.Length - k;
+            for (int i = 0; i < nums.Length; i++)
             {
-                int diff = nums1[beg1] - nums2[beg2];
-                if (diff != 0) return diff;
-                beg1++;
-                beg2++;
+                while (top >= 0 && remain > 0 && res[top] < nums[i])
+                {
+                    top--;
+                    remain--;
+                }
+                if (top < k - 1) res[++top] = nums[i];
+                else remain--;
             }
-            return m - beg1 - (n - beg2);
+            return res;
+        }
+
+        private int[] Joint(int[] nums1, int[] nums2)
+        {
+            if (nums1 == null) return nums2;
+            if (nums2 == null) return nums1;
+            var res = new int[nums1.Length + nums2.Length];
+            for (int i = 0, j = 0, k = 0; i < nums1.Length || j < nums2.Length; k++)
+                if (Compare(nums1, i, nums2, j) > 0)
+                    res[k] = nums1[i++];
+                else
+                    res[k] = nums2[j++];
+            return res;
         }
 
     }
