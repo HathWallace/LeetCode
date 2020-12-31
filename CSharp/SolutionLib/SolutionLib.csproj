@@ -89,6 +89,9 @@
     <Compile Include="300. 最长递增子序列\Solution_dp.cs" />
     <Compile Include="300. 最长递增子序列\Solution_greedy.cs" />
     <Compile Include="300. 最长递增子序列\Test.cs" />
+    <Compile Include="316. 去除重复字母\Solution_greedy.cs" />
+    <Compile Include="316. 去除重复字母\Solution.cs" />
+    <Compile Include="316. 去除重复字母\Test.cs" />
     <Compile Include="321. 拼接最大数\Solution.cs" />
     <Compile Include="322. 零钱兑换\Solution.cs" />
     <Compile Include="322. 零钱兑换\Solution_dp.cs" />

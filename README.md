@@ -23,9 +23,9 @@
 
    e.g.[387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 
-5. 单调栈：单调递增或单调减的栈
+5. 单调栈：单调递增或单调减的栈（用数组就可以解决）
 
-   e.g.[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)、[321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
+   e.g.[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)、[321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)、[316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 
 6. 
 
