@@ -27,5 +27,9 @@
 
    e.g.[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)、[321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)、[316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 
-6. 
+6. 非递归构建树
+
+   e.g.[剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+
+7. 
 

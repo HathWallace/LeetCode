@@ -74,7 +74,7 @@
     <Compile Include="0001-0300\103. 二叉树的锯齿形层序遍历\Solution.cs" />
     <Compile Include="0001-0300\103. 二叉树的锯齿形层序遍历\Solution2.cs" />
     <Compile Include="0001-0300\103. 二叉树的锯齿形层序遍历\Test.cs" />
-    <Compile Include="0001-0300\103. 二叉树的锯齿形层序遍历\TreeNode.cs" />
+    <Compile Include="TreeNode.cs" />
     <Compile Include="0001-0300\1046. 最后一块石头的重量\Solution_nosort.cs" />
     <Compile Include="0001-0300\1046. 最后一块石头的重量\Solution.cs" />
     <Compile Include="0001-0300\1046. 最后一块石头的重量\Test.cs" />
@@ -149,6 +149,9 @@
     <Compile Include="剑指 Offer 03. 数组中重复的数字\Test.cs" />
     <Compile Include="剑指 Offer 04. 二维数组中的查找\Solution.cs" />
     <Compile Include="剑指 Offer 04. 二维数组中的查找\Test.cs" />
+    <Compile Include="剑指 Offer 07. 重建二叉树\Solution.cs" />
+    <Compile Include="剑指 Offer 07. 重建二叉树\Solution_stack.cs" />
+    <Compile Include="剑指 Offer 07. 重建二叉树\Test.cs" />
     <Compile Include="面试题 08.06. 汉诺塔问题\Solution.cs" />
     <Compile Include="面试题 08.06. 汉诺塔问题\Solution2.cs" />
     <Compile Include="面试题 08.06. 汉诺塔问题\Test.cs" />
