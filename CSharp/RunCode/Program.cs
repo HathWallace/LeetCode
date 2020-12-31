@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib.剑指_Offer_03._数组中重复的数字;
+using SolutionLib.剑指_Offer_04._二维数组中的查找;
 
 namespace RunCode
 {
