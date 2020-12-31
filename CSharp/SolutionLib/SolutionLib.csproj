@@ -104,6 +104,7 @@
     <Compile Include="0301-0500\389. 找不同\Solution.cs" />
     <Compile Include="0301-0500\389. 找不同\Solution2.cs" />
     <Compile Include="0301-0500\389. 找不同\Test.cs" />
+    <Compile Include="0301-0500\435. 无重叠区间\Solution_greedy.cs" />
     <Compile Include="0301-0500\435. 无重叠区间\Solution.cs" />
     <Compile Include="0301-0500\435. 无重叠区间\Test.cs" />
     <Compile Include="0301-0500\455. 分发饼干\Solution.cs" />
