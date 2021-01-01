@@ -74,6 +74,8 @@
     <Compile Include="0001-0300\103. 二叉树的锯齿形层序遍历\Solution.cs" />
     <Compile Include="0001-0300\103. 二叉树的锯齿形层序遍历\Solution2.cs" />
     <Compile Include="0001-0300\103. 二叉树的锯齿形层序遍历\Test.cs" />
+    <Compile Include="0301-0500\605. 种花问题\Solution.cs" />
+    <Compile Include="0301-0500\605. 种花问题\Test.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="0001-0300\1046. 最后一块石头的重量\Solution_nosort.cs" />
     <Compile Include="0001-0300\1046. 最后一块石头的重量\Solution.cs" />
