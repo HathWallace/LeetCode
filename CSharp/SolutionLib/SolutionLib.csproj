@@ -77,6 +77,9 @@
     <Compile Include="0001-0300\15. 三数之和\Solution.cs" />
     <Compile Include="0001-0300\15. 三数之和\Solution_doublept.cs" />
     <Compile Include="0001-0300\15. 三数之和\Test.cs" />
+    <Compile Include="0001-0300\22. 括号生成\Solution_backtrack.cs" />
+    <Compile Include="0001-0300\22. 括号生成\Solution.cs" />
+    <Compile Include="0001-0300\22. 括号生成\Test.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution_deque.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Test.cs" />
