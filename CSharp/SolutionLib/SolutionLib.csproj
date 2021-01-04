@@ -85,6 +85,9 @@
     <Compile Include="0001-0300\239. 滑动窗口最大值\Test.cs" />
     <Compile Include="0001-0300\86. 分隔链表\Solution.cs" />
     <Compile Include="0001-0300\86. 分隔链表\Test.cs" />
+    <Compile Include="0301-0500\312. 戳气球\Solution_dp.cs" />
+    <Compile Include="0301-0500\312. 戳气球\Solution.cs" />
+    <Compile Include="0301-0500\312. 戳气球\Test.cs" />
     <Compile Include="0301-0500\605. 种花问题\Solution.cs" />
     <Compile Include="0301-0500\605. 种花问题\Test.cs" />
     <Compile Include="0501-1000\509. 斐波那契数\Solution_fastpower.cs" />
