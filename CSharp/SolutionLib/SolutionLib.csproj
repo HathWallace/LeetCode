@@ -84,6 +84,8 @@
     <Compile Include="0001-0300\86. 分隔链表\Test.cs" />
     <Compile Include="0301-0500\605. 种花问题\Solution.cs" />
     <Compile Include="0301-0500\605. 种花问题\Test.cs" />
+    <Compile Include="0501-1000\509. 斐波那契数\Solution_fastpower.cs" />
+    <Compile Include="0501-1000\509. 斐波那契数\Test.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="0001-0300\1046. 最后一块石头的重量\Solution_nosort.cs" />
