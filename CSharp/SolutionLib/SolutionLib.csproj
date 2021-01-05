@@ -93,6 +93,8 @@
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution_deque.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Test.cs" />
+    <Compile Include="0001-0300\46. 全排列\Solution.cs" />
+    <Compile Include="0001-0300\46. 全排列\Test.cs" />
     <Compile Include="0001-0300\86. 分隔链表\Solution.cs" />
     <Compile Include="0001-0300\86. 分隔链表\Test.cs" />
     <Compile Include="0301-0500\312. 戳气球\Solution_dp.cs" />
