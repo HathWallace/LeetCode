@@ -85,6 +85,8 @@
     <Compile Include="0001-0300\155. 最小栈\MinStack.cs" />
     <Compile Include="0001-0300\155. 最小栈\MinStack_auxiliary.cs" />
     <Compile Include="0001-0300\155. 最小栈\Test.cs" />
+    <Compile Include="0001-0300\198. 打家劫舍\Solution.cs" />
+    <Compile Include="0001-0300\198. 打家劫舍\Test.cs" />
     <Compile Include="0001-0300\22. 括号生成\Solution_backtrack.cs" />
     <Compile Include="0001-0300\22. 括号生成\Solution.cs" />
     <Compile Include="0001-0300\22. 括号生成\Test.cs" />
