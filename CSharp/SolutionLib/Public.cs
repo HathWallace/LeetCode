@@ -29,14 +29,14 @@ namespace SolutionLib
             return Get2DNums(ReadLine());
         }
 
-        public static void PrintNums(int[] nums)
+        public static void PrintNums<T>(T[] results)
         {
             bool flag = false;
             Console.Write('[');
-            foreach (var num in nums)
+            foreach (var result in results)
             {
                 if (flag) Console.Write(",");
-                Console.Write(num);
+                Console.Write(result);
                 flag = true;
             }
             Console.Write(']');

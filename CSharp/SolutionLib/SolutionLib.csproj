@@ -100,6 +100,8 @@
     <Compile Include="0301-0500\312. 戳气球\Solution_dp.cs" />
     <Compile Include="0301-0500\312. 戳气球\Solution.cs" />
     <Compile Include="0301-0500\312. 戳气球\Test.cs" />
+    <Compile Include="0301-0500\399. 除法求值\Solution.cs" />
+    <Compile Include="0301-0500\399. 除法求值\Test.cs" />
     <Compile Include="0301-0500\605. 种花问题\Solution.cs" />
     <Compile Include="0301-0500\605. 种花问题\Test.cs" />
     <Compile Include="0501-\509. 斐波那契数\Solution_fastpower.cs" />
