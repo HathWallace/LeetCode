@@ -95,6 +95,11 @@
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution_deque.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Test.cs" />
+    <Compile Include="0001-0300\32. 最长有效括号\Solution.cs" />
+    <Compile Include="0001-0300\32. 最长有效括号\Solution_dp.cs" />
+    <Compile Include="0001-0300\32. 最长有效括号\Solution_special.cs" />
+    <Compile Include="0001-0300\32. 最长有效括号\Solution_stack.cs" />
+    <Compile Include="0001-0300\32. 最长有效括号\Test.cs" />
     <Compile Include="0001-0300\42. 接雨水\Solution_doublept.cs" />
     <Compile Include="0001-0300\42. 接雨水\Solution_dp.cs" />
     <Compile Include="0001-0300\42. 接雨水\Solution.cs" />
