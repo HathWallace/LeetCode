@@ -11,6 +11,12 @@ namespace SolutionLib
             return ReadLine();
         }
 
+        public static string[] ReadStrs()
+        {
+            Console.WriteLine("输入一组字符串，以回车结尾：");
+            return GetStrings(ReadLine());
+        }
+
         public static int ReadNum()
         {
             Console.WriteLine("输入一个数，以回车结尾：");
@@ -54,15 +60,24 @@ namespace SolutionLib
             return int.Parse(str);
         }
 
+        private static string[] GetStrings(string str)
+        {
+            var res = new List<string>();
+            str = str.Substring(1, str.Length - 2);
+            foreach (var s in str.Split(','))
+            {
+                if (s == "") continue;
+                res.Add(s);
+            }
+
+            return res.ToArray();
+        }
+
         private static int[] GetNums(string str)
         {
             var res = new List<int>();
-            str = str.Substring(1, str.Length - 2);
-            foreach (var num in str.Split(','))
-            {
-                if (num == "") continue;
+            foreach (var num in GetStrings(str))
                 res.Add(GetNum(num));
-            }
 
             return res.ToArray();
         }
