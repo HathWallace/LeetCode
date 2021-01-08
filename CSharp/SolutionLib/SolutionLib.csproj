@@ -101,6 +101,9 @@
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Solution_deque.cs" />
     <Compile Include="0001-0300\239. 滑动窗口最大值\Test.cs" />
+    <Compile Include="0001-0300\297. 二叉树的序列化与反序列化\Codec.cs" />
+    <Compile Include="0001-0300\297. 二叉树的序列化与反序列化\Codec_pre.cs" />
+    <Compile Include="0001-0300\297. 二叉树的序列化与反序列化\Test.cs" />
     <Compile Include="0001-0300\32. 最长有效括号\Solution.cs" />
     <Compile Include="0001-0300\32. 最长有效括号\Solution_dp.cs" />
     <Compile Include="0001-0300\32. 最长有效括号\Solution_special.cs" />
