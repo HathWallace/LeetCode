@@ -76,6 +76,8 @@
     <Compile Include="0101-0300\103. 二叉树的锯齿形层序遍历\Solution.cs" />
     <Compile Include="0101-0300\103. 二叉树的锯齿形层序遍历\Solution2.cs" />
     <Compile Include="0101-0300\103. 二叉树的锯齿形层序遍历\Test.cs" />
+    <Compile Include="0101-0300\123. 买卖股票的最佳时机 III\Solution.cs" />
+    <Compile Include="0101-0300\123. 买卖股票的最佳时机 III\Test.cs" />
     <Compile Include="0101-0300\124. 二叉树中的最大路径和\Solution.cs" />
     <Compile Include="0101-0300\124. 二叉树中的最大路径和\Test.cs" />
     <Compile Include="0101-0300\128. 最长连续序列\Solution.cs" />
