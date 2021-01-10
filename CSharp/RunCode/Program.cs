@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._76._最小覆盖子串;
+using SolutionLib._228._汇总区间;
 
 namespace RunCode
 {

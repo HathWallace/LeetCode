@@ -35,7 +35,7 @@ namespace SolutionLib
             return Get2DNums(ReadLine());
         }
 
-        public static void PrintNums<T>(T[] results)
+        public static void PrintNums<T>(IEnumerable<T> results)
         {
             bool flag = false;
             Console.Write('[');
