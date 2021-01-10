@@ -94,6 +94,8 @@
     <Compile Include="0101-0300\124. 二叉树中的最大路径和\Test.cs" />
     <Compile Include="0101-0300\128. 最长连续序列\Solution.cs" />
     <Compile Include="0101-0300\128. 最长连续序列\Test.cs" />
+    <Compile Include="0101-0300\141. 环形链表\Solution.cs" />
+    <Compile Include="0101-0300\141. 环形链表\Test.cs" />
     <Compile Include="0101-0300\142. 环形链表 II\Solution_doublept.cs" />
     <Compile Include="0101-0300\142. 环形链表 II\Solution.cs" />
     <Compile Include="0101-0300\142. 环形链表 II\Test.cs" />
