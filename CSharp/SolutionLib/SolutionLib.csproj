@@ -80,6 +80,8 @@
     <Compile Include="0001-0100\23. 合并K个升序链表\Solution.cs" />
     <Compile Include="0001-0100\23. 合并K个升序链表\Solution_divide.cs" />
     <Compile Include="0001-0100\23. 合并K个升序链表\Test.cs" />
+    <Compile Include="0001-0100\3. 无重复字符的最长子串\Solution.cs" />
+    <Compile Include="0001-0100\3. 无重复字符的最长子串\Test.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Solution.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Solution_slidewindow.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Test.cs" />
