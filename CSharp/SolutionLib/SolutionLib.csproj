@@ -73,6 +73,8 @@
     <Compile Include="0001-0100\1. 两数之和\Test.cs" />
     <Compile Include="0001-0100\10. 正则表达式匹配\Solution.cs" />
     <Compile Include="0001-0100\10. 正则表达式匹配\Test.cs" />
+    <Compile Include="0001-0100\2. 两数相加\Solution.cs" />
+    <Compile Include="0001-0100\2. 两数相加\Test.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Solution.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Solution_slidewindow.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Test.cs" />

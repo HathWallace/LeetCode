@@ -35,6 +35,20 @@ namespace SolutionLib
             return Get2DNums(ReadLine());
         }
 
+        public static ListNode ReadList()
+        {
+            var nums = ReadNums();
+            if (nums.Length == 0) return null;
+            var head = new ListNode(nums[0]);
+            var pt = head;
+            for (int i = 1; i < nums.Length; i++)
+            {
+                pt.next = new ListNode(nums[i]);
+                pt = pt.next;
+            }
+            return head;
+        }
+
         public static void Print<T>(IEnumerable<T> results)
         {
             bool flag = false;
@@ -48,6 +62,13 @@ namespace SolutionLib
             Console.Write(']');
 
             Console.WriteLine();
+        }
+
+        public static void Print(ListNode head, bool isHead)
+        {
+            if (head == null) return;
+            Console.Write((isHead ? "" : "->") + head.val);
+            Print(head.next, false);
         }
 
         private static string ReadLine()
