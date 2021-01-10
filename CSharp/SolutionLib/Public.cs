@@ -66,9 +66,16 @@ namespace SolutionLib
 
         public static void Print(ListNode head, bool isHead)
         {
-            if (head == null) return;
+            if (head == null)
+            {
+                Console.Write(isHead ? "链表为空\n" : "");
+                return;
+            }
             Console.Write((isHead ? "" : "->") + head.val);
             Print(head.next, false);
+
+            if (isHead)
+                Console.WriteLine();
         }
 
         private static string ReadLine()
