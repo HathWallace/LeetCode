@@ -5,7 +5,7 @@
         public static void Run()
         {
             var s = new Solution();
-            Public.PrintNums(s.SortArray(Public.ReadNums()));
+            Public.Print(s.SortArray(Public.ReadNums()));
         }
     }
 }

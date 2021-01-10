@@ -5,7 +5,7 @@
         public static void Run()
         {
             var s = new Solution();
-            Public.PrintNums(s.SummaryRanges(Public.ReadNums()));
+            Public.Print(s.SummaryRanges(Public.ReadNums()));
         }
 
         /*

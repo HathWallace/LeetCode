@@ -11,7 +11,7 @@
             var s = new Solution();
             var res = s.MaxNumber(nums1, nums2, k);
 
-            Public.PrintNums(res);
+            Public.Print(res);
         }
         /*
          * [8,6,9]

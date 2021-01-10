@@ -7,7 +7,7 @@
             var s = new Solution_reverse();
             var nums = Public.ReadNums();
             s.Rotate(nums, Public.ReadNum());
-            Public.PrintNums(nums);
+            Public.Print(nums);
         }
 
         /*

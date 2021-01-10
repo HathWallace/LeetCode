@@ -7,7 +7,7 @@ namespace SolutionLib._239._滑动窗口最大值
         public static void Run()
         {
             var s=new Solution_deque();
-            Public.PrintNums(s.MaxSlidingWindow(Public.ReadNums(), Public.ReadNum()));
+            Public.Print(s.MaxSlidingWindow(Public.ReadNums(), Public.ReadNum()));
         }
 
         /*

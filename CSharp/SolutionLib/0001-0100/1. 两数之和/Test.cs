@@ -7,7 +7,7 @@ namespace SolutionLib._1._两数之和
         public static void Run()
         {
             var s=new Solution_hash();
-            Public.PrintNums(s.TwoSum(Public.ReadNums(), Public.ReadNum()));
+            Public.Print(s.TwoSum(Public.ReadNums(), Public.ReadNum()));
         }
     }
 }

@@ -16,7 +16,7 @@ namespace SolutionLib._15._三数之和
         {
             foreach (var list in res)
             {
-                Public.PrintNums(list.ToArray());
+                Public.Print(list.ToArray());
             }
         }
 

@@ -13,9 +13,9 @@ namespace SolutionLib.面试题_08._06._汉诺塔问题
             var C = new List<int>();
             s.Hanota(A, B, C);
             //Move('A', 'B', 'C', 4);
-            Public.PrintNums(A.ToArray());
-            Public.PrintNums(B.ToArray());
-            Public.PrintNums(C.ToArray());
+            Public.Print(A.ToArray());
+            Public.Print(B.ToArray());
+            Public.Print(C.ToArray());
         }
 
         static void Move(char a, char b, char c, int num)

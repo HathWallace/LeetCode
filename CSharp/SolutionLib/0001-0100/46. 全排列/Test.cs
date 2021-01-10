@@ -9,7 +9,7 @@ namespace SolutionLib._46._全排列
             var s = new Solution2();
             foreach (var res in s.Permute(Public.ReadNums()))
             {
-                Public.PrintNums(res.ToArray());
+                Public.Print(res.ToArray());
             }
         }
 

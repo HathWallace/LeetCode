@@ -10,7 +10,7 @@ namespace SolutionLib._830._较大分组的位置
             var s = new Solution();
             foreach (var section in s.LargeGroupPositions(Public.ReadStr()))
             {
-                Public.PrintNums(section.ToArray());
+                Public.Print(section.ToArray());
             }
         }
 

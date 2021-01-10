@@ -11,7 +11,7 @@ namespace SolutionLib._399._除法求值
             var equations = GetListOfList();
             var values = GetDoubles();
             var queries = GetListOfList();
-            Public.PrintNums(s.CalcEquation(equations, values, queries));
+            Public.Print(s.CalcEquation(equations, values, queries));
         }
 
         private static IList<IList<string>> GetListOfList()
