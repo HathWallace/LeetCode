@@ -35,9 +35,8 @@ namespace SolutionLib
             return Get2DNums(ReadLine());
         }
 
-        public static ListNode ReadList()
+        public static ListNode ReadList(int[] nums)
         {
-            var nums = ReadNums();
             if (nums.Length == 0) return null;
             var head = new ListNode(nums[0]);
             var pt = head;
@@ -47,6 +46,11 @@ namespace SolutionLib
                 pt = pt.next;
             }
             return head;
+        }
+
+        public static ListNode ReadList()
+        {
+            return ReadList(ReadNums());
         }
 
         public static void Print<T>(IEnumerable<T> results)
@@ -90,6 +94,7 @@ namespace SolutionLib
 
         private static string[] GetStrings(string str)
         {
+            if (str.Length <= 2) return null;
             var res = new List<string>();
             str = str.Substring(1, str.Length - 2);
             foreach (var s in str.Split(','))
@@ -112,6 +117,7 @@ namespace SolutionLib
 
         private static int[][] Get2DNums(string str)
         {
+            if (str.Length <= 4) return new int[][] { };
             var res = new List<int[]>();
             str = str.Substring(1, str.Length - 2);
             str = str.Replace("],[", "].[");
