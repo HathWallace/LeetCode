@@ -73,6 +73,9 @@
     <Compile Include="0001-0100\1. 两数之和\Test.cs" />
     <Compile Include="0001-0100\10. 正则表达式匹配\Solution.cs" />
     <Compile Include="0001-0100\10. 正则表达式匹配\Test.cs" />
+    <Compile Include="0001-0100\76. 最小覆盖子串\Solution.cs" />
+    <Compile Include="0001-0100\76. 最小覆盖子串\Solution_slidewindow.cs" />
+    <Compile Include="0001-0100\76. 最小覆盖子串\Test.cs" />
     <Compile Include="0101-0300\103. 二叉树的锯齿形层序遍历\Solution.cs" />
     <Compile Include="0101-0300\103. 二叉树的锯齿形层序遍历\Solution2.cs" />
     <Compile Include="0101-0300\103. 二叉树的锯齿形层序遍历\Test.cs" />
@@ -104,7 +107,6 @@
     <Compile Include="0101-0300\239. 滑动窗口最大值\Solution_deque.cs" />
     <Compile Include="0101-0300\239. 滑动窗口最大值\Test.cs" />
     <Compile Include="0101-0300\297. 二叉树的序列化与反序列化\Codec.cs" />
-    <Compile Include="0101-0300\297. 二叉树的序列化与反序列化\Codec_pre.cs" />
     <Compile Include="0101-0300\297. 二叉树的序列化与反序列化\Test.cs" />
     <Compile Include="0001-0100\32. 最长有效括号\Solution.cs" />
     <Compile Include="0001-0100\32. 最长有效括号\Solution_dp.cs" />

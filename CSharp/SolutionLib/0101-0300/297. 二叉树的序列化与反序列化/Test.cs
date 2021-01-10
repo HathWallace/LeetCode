@@ -6,7 +6,7 @@ namespace SolutionLib._297._二叉树的序列化与反序列化
     {
         public static void Run()
         {
-            var c = new Codec_pre();
+            var c = new Codec();
             var root = c.deserialize(Public.ReadStr());
             PreOrder(root);
             Console.WriteLine();
