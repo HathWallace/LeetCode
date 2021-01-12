@@ -109,6 +109,8 @@ namespace SolutionLib
         private static int[] GetNums(string str)
         {
             var res = new List<int>();
+            if (str.Length <= 2)
+                return res.ToArray();
             foreach (var num in GetStrings(str))
                 res.Add(GetNum(num));
 

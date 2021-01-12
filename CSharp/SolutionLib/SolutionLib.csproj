@@ -151,6 +151,9 @@
     <Compile Include="0501-\1202. 交换字符串中的元素\Solution.cs" />
     <Compile Include="0501-\1202. 交换字符串中的元素\Solution_unionfind.cs" />
     <Compile Include="0501-\1202. 交换字符串中的元素\Test.cs" />
+    <Compile Include="0501-\1203. 项目管理\Solution.cs" />
+    <Compile Include="0501-\1203. 项目管理\Solution_topological.cs" />
+    <Compile Include="0501-\1203. 项目管理\Test.cs" />
     <Compile Include="0501-\509. 斐波那契数\Solution_fastpower.cs" />
     <Compile Include="0501-\509. 斐波那契数\Test.cs" />
     <Compile Include="0501-\547. 省份数量\Solution.cs" />
