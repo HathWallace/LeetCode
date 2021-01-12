@@ -77,6 +77,8 @@
     <Compile Include="0001-0100\19. 删除链表的倒数第N个节点\Test.cs" />
     <Compile Include="0001-0100\2. 两数相加\Solution.cs" />
     <Compile Include="0001-0100\2. 两数相加\Test.cs" />
+    <Compile Include="0001-0100\20. 有效的括号\Solution.cs" />
+    <Compile Include="0001-0100\20. 有效的括号\Test.cs" />
     <Compile Include="0001-0100\21. 合并两个有序链表\Solution.cs" />
     <Compile Include="0001-0100\21. 合并两个有序链表\Test.cs" />
     <Compile Include="0001-0100\23. 合并K个升序链表\Solution.cs" />
