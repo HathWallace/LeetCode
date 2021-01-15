@@ -92,6 +92,8 @@
     <Compile Include="0001-0100\76. 最小覆盖子串\Solution.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Solution_slidewindow.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Test.cs" />
+    <Compile Include="0001-0100\94. 二叉树的中序遍历\Solution.cs" />
+    <Compile Include="0001-0100\94. 二叉树的中序遍历\Test.cs" />
     <Compile Include="0101-0300\101. 对称二叉树\Solution.cs" />
     <Compile Include="0101-0300\101. 对称二叉树\Test.cs" />
     <Compile Include="0101-0300\103. 二叉树的锯齿形层序遍历\Solution.cs" />
