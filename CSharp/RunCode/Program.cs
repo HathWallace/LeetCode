@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._94._二叉树的中序遍历;
+using SolutionLib._947._移除最多的同行或同列石头;
 
 namespace RunCode
 {

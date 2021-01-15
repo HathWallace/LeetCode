@@ -174,6 +174,9 @@
     <Compile Include="0501-\684. 冗余连接\Test.cs" />
     <Compile Include="0501-\830. 较大分组的位置\Solution.cs" />
     <Compile Include="0501-\830. 较大分组的位置\Test.cs" />
+    <Compile Include="0501-\947. 移除最多的同行或同列石头\Solution_union.cs" />
+    <Compile Include="0501-\947. 移除最多的同行或同列石头\Solution.cs" />
+    <Compile Include="0501-\947. 移除最多的同行或同列石头\Test.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="0501-\1046. 最后一块石头的重量\Solution_nosort.cs" />
