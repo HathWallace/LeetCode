@@ -182,6 +182,9 @@
     <Compile Include="0501-\547. 省份数量\Test.cs" />
     <Compile Include="0501-\684. 冗余连接\Solution.cs" />
     <Compile Include="0501-\684. 冗余连接\Test.cs" />
+    <Compile Include="0501-\803. 打砖块\Solution.cs" />
+    <Compile Include="0501-\803. 打砖块\Solution_union.cs" />
+    <Compile Include="0501-\803. 打砖块\Test.cs" />
     <Compile Include="0501-\830. 较大分组的位置\Solution.cs" />
     <Compile Include="0501-\830. 较大分组的位置\Test.cs" />
     <Compile Include="0501-\947. 移除最多的同行或同列石头\Solution_union.cs" />
