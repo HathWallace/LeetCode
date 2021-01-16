@@ -124,6 +124,10 @@
     <Compile Include="0101-0300\155. 最小栈\MinStack.cs" />
     <Compile Include="0101-0300\155. 最小栈\MinStack_auxiliary.cs" />
     <Compile Include="0101-0300\155. 最小栈\Test.cs" />
+    <Compile Include="0101-0300\169. 多数元素\Solution_moore.cs" />
+    <Compile Include="0101-0300\169. 多数元素\Solution.cs" />
+    <Compile Include="0101-0300\169. 多数元素\Solution_random.cs" />
+    <Compile Include="0101-0300\169. 多数元素\Test.cs" />
     <Compile Include="0101-0300\189. 旋转数组\Solution.cs" />
     <Compile Include="0101-0300\189. 旋转数组\Solution_replace.cs" />
     <Compile Include="0101-0300\189. 旋转数组\Solution_reverse.cs" />
