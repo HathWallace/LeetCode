@@ -141,6 +141,8 @@
     <Compile Include="0101-0300\200. 岛屿数量\Test.cs" />
     <Compile Include="0101-0300\228. 汇总区间\Solution.cs" />
     <Compile Include="0101-0300\228. 汇总区间\Test.cs" />
+    <Compile Include="0101-0300\236. 二叉树的最近公共祖先\Solution.cs" />
+    <Compile Include="0101-0300\236. 二叉树的最近公共祖先\Test.cs" />
     <Compile Include="0101-0300\239. 滑动窗口最大值\Solution.cs" />
     <Compile Include="0101-0300\239. 滑动窗口最大值\Solution_deque.cs" />
     <Compile Include="0101-0300\239. 滑动窗口最大值\Test.cs" />
