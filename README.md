@@ -47,5 +47,11 @@
 
     e.g.[509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 
-11. 
+11. C#的排序默认并不是按照ASCII码进行排序的
+
+    [C# 字符串按 ASCII码 排序，注意其中的小坑](https://www.cnblogs.com/similar/p/6739293.html)
+
+    e.g. [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
+
+12. 
 

@@ -187,6 +187,9 @@
     <Compile Include="0501-\547. 省份数量\Test.cs" />
     <Compile Include="0501-\684. 冗余连接\Solution.cs" />
     <Compile Include="0501-\684. 冗余连接\Test.cs" />
+    <Compile Include="0501-\721. 账户合并\Solution2.cs" />
+    <Compile Include="0501-\721. 账户合并\Solution.cs" />
+    <Compile Include="0501-\721. 账户合并\Test.cs" />
     <Compile Include="0501-\803. 打砖块\Solution.cs" />
     <Compile Include="0501-\803. 打砖块\Solution_union.cs" />
     <Compile Include="0501-\803. 打砖块\Test.cs" />
