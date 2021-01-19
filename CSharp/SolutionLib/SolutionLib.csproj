@@ -96,6 +96,8 @@
     <Compile Include="0001-0100\76. 最小覆盖子串\Test.cs" />
     <Compile Include="0001-0100\94. 二叉树的中序遍历\Solution.cs" />
     <Compile Include="0001-0100\94. 二叉树的中序遍历\Test.cs" />
+    <Compile Include="0001-0100\95. 不同的二叉搜索树 II\Solution.cs" />
+    <Compile Include="0001-0100\95. 不同的二叉搜索树 II\Test.cs" />
     <Compile Include="0001-0100\96. 不同的二叉搜索树\Solution.cs" />
     <Compile Include="0001-0100\96. 不同的二叉搜索树\Test.cs" />
     <Compile Include="0001-0100\98. 验证二叉搜索树\Solution.cs" />
