@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._721._账户合并;
+using SolutionLib._1584._连接所有点的最小费用;
 
 namespace RunCode
 {
