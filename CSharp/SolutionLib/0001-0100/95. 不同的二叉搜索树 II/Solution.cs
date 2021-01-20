@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SolutionLib
+namespace SolutionLib._95._不同的二叉搜索树_II
 {
     /**
      * Definition for a binary tree node.

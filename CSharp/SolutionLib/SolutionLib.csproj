@@ -192,6 +192,8 @@
     <Compile Include="0501-\547. 省份数量\Solution.cs" />
     <Compile Include="0501-\547. 省份数量\Solution_BFS.cs" />
     <Compile Include="0501-\547. 省份数量\Test.cs" />
+    <Compile Include="0501-\628. 三个数的最大乘积\Solution.cs" />
+    <Compile Include="0501-\628. 三个数的最大乘积\Test.cs" />
     <Compile Include="0501-\684. 冗余连接\Solution.cs" />
     <Compile Include="0501-\684. 冗余连接\Test.cs" />
     <Compile Include="0501-\721. 账户合并\Solution2.cs" />

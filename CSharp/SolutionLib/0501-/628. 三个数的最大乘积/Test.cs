@@ -1,4 +1,4 @@
-﻿namespace SolutionLib._95._不同的二叉搜索树_II
+﻿namespace SolutionLib._628._三个数的最大乘积
 {
     public class Test
     {
