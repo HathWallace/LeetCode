@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._1584._连接所有点的最小费用;
+using SolutionLib._1489._找到最小生成树里的关键边和伪关键边;
 
 namespace RunCode
 {
