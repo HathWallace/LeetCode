@@ -112,6 +112,9 @@
     <Compile Include="0101-0300\105. 从前序与中序遍历序列构造二叉树\Solution.cs" />
     <Compile Include="0101-0300\105. 从前序与中序遍历序列构造二叉树\Solution_iteration.cs" />
     <Compile Include="0101-0300\105. 从前序与中序遍历序列构造二叉树\Test.cs" />
+    <Compile Include="0101-0300\114. 二叉树展开为链表\Solution.cs" />
+    <Compile Include="0101-0300\114. 二叉树展开为链表\Solution_mirrors.cs" />
+    <Compile Include="0101-0300\114. 二叉树展开为链表\Test.cs" />
     <Compile Include="0101-0300\121. 买卖股票的最佳时机\Solution.cs" />
     <Compile Include="0101-0300\121. 买卖股票的最佳时机\Test.cs" />
     <Compile Include="0101-0300\123. 买卖股票的最佳时机 III\Solution.cs" />
