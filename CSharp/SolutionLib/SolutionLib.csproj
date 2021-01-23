@@ -197,6 +197,8 @@
     <Compile Include="0501-\1584. 连接所有点的最小费用\Test.cs" />
     <Compile Include="0501-\509. 斐波那契数\Solution_fastpower.cs" />
     <Compile Include="0501-\509. 斐波那契数\Test.cs" />
+    <Compile Include="0501-\543. 二叉树的直径\Solution.cs" />
+    <Compile Include="0501-\543. 二叉树的直径\Test.cs" />
     <Compile Include="0501-\547. 省份数量\Solution.cs" />
     <Compile Include="0501-\547. 省份数量\Solution_BFS.cs" />
     <Compile Include="0501-\547. 省份数量\Test.cs" />
