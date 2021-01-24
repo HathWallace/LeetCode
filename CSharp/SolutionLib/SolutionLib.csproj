@@ -175,6 +175,8 @@
     <Compile Include="0301-0500\312. 戳气球\Solution_dp.cs" />
     <Compile Include="0301-0500\312. 戳气球\Solution.cs" />
     <Compile Include="0301-0500\312. 戳气球\Test.cs" />
+    <Compile Include="0301-0500\337. 打家劫舍 III\Solution.cs" />
+    <Compile Include="0301-0500\337. 打家劫舍 III\Test.cs" />
     <Compile Include="0301-0500\399. 除法求值\Solution.cs" />
     <Compile Include="0301-0500\399. 除法求值\Test.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Solution.cs" />
