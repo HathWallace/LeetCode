@@ -159,6 +159,10 @@
     <Compile Include="0101-0300\239. 滑动窗口最大值\Solution.cs" />
     <Compile Include="0101-0300\239. 滑动窗口最大值\Solution_deque.cs" />
     <Compile Include="0101-0300\239. 滑动窗口最大值\Test.cs" />
+    <Compile Include="0101-0300\279. 完全平方数\Solution.cs" />
+    <Compile Include="0101-0300\279. 完全平方数\Solution_BFS.cs" />
+    <Compile Include="0101-0300\279. 完全平方数\Solution_math.cs" />
+    <Compile Include="0101-0300\279. 完全平方数\Test.cs" />
     <Compile Include="0101-0300\297. 二叉树的序列化与反序列化\Codec.cs" />
     <Compile Include="0101-0300\297. 二叉树的序列化与反序列化\Test.cs" />
     <Compile Include="0001-0100\32. 最长有效括号\Solution.cs" />

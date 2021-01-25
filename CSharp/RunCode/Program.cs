@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._204._计数质数;
+using SolutionLib._279._完全平方数;
 
 namespace RunCode
 {
