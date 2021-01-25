@@ -231,6 +231,8 @@
     <Compile Include="0501-\947. 移除最多的同行或同列石头\Solution_union.cs" />
     <Compile Include="0501-\947. 移除最多的同行或同列石头\Solution.cs" />
     <Compile Include="0501-\947. 移除最多的同行或同列石头\Test.cs" />
+    <Compile Include="0501-\959. 由斜杠划分区域\Solution.cs" />
+    <Compile Include="0501-\959. 由斜杠划分区域\Test.cs" />
     <Compile Include="0501-\989. 数组形式的整数加法\Solution.cs" />
     <Compile Include="0501-\989. 数组形式的整数加法\Test.cs" />
     <Compile Include="ListNode.cs" />
