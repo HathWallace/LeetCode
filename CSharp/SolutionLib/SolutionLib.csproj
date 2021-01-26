@@ -89,6 +89,9 @@
     <Compile Include="0001-0100\5. 最长回文子串\Solution.cs" />
     <Compile Include="0001-0100\5. 最长回文子串\Solution_dp.cs" />
     <Compile Include="0001-0100\5. 最长回文子串\Test.cs" />
+    <Compile Include="0001-0100\62. 不同路径\Solution_math.cs" />
+    <Compile Include="0001-0100\62. 不同路径\Solution.cs" />
+    <Compile Include="0001-0100\62. 不同路径\Test.cs" />
     <Compile Include="0001-0100\70. 爬楼梯\Solution.cs" />
     <Compile Include="0001-0100\70. 爬楼梯\Test.cs" />
     <Compile Include="0001-0100\76. 最小覆盖子串\Solution.cs" />
