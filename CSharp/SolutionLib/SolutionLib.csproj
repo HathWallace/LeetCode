@@ -195,6 +195,9 @@
     <Compile Include="0301-0500\338. 比特位计数\Test.cs" />
     <Compile Include="0301-0500\399. 除法求值\Solution.cs" />
     <Compile Include="0301-0500\399. 除法求值\Test.cs" />
+    <Compile Include="0301-0500\416. 分割等和子集\Solution.cs" />
+    <Compile Include="0301-0500\416. 分割等和子集\Solution_dp.cs" />
+    <Compile Include="0301-0500\416. 分割等和子集\Test.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Solution.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Solution_sum.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Test.cs" />
