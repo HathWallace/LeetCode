@@ -92,6 +92,8 @@
     <Compile Include="0051-0100\62. 不同路径\Solution_math.cs" />
     <Compile Include="0051-0100\62. 不同路径\Solution.cs" />
     <Compile Include="0051-0100\62. 不同路径\Test.cs" />
+    <Compile Include="0051-0100\64. 最小路径和\Solution.cs" />
+    <Compile Include="0051-0100\64. 最小路径和\Test.cs" />
     <Compile Include="0051-0100\70. 爬楼梯\Solution.cs" />
     <Compile Include="0051-0100\70. 爬楼梯\Test.cs" />
     <Compile Include="0051-0100\76. 最小覆盖子串\Solution.cs" />
