@@ -203,6 +203,8 @@
     <Compile Include="0301-0500\437. 路径总和 III\Test.cs" />
     <Compile Include="0501-1000\605. 种花问题\Solution.cs" />
     <Compile Include="0501-1000\605. 种花问题\Test.cs" />
+    <Compile Include="0501-1000\724. 寻找数组的中心索引\Solution.cs" />
+    <Compile Include="0501-1000\724. 寻找数组的中心索引\Test.cs" />
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Solution.cs" />
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Test.cs" />
     <Compile Include="1001-\1128. 等价多米诺骨牌对的数量\Solution.cs" />
