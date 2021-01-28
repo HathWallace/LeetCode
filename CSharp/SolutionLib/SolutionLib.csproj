@@ -193,6 +193,10 @@
     <Compile Include="0301-0500\337. 打家劫舍 III\Test.cs" />
     <Compile Include="0301-0500\338. 比特位计数\Solution.cs" />
     <Compile Include="0301-0500\338. 比特位计数\Test.cs" />
+    <Compile Include="0301-0500\354. 俄罗斯套娃信封问题\Solution.cs" />
+    <Compile Include="0301-0500\354. 俄罗斯套娃信封问题\Solution_dp.cs" />
+    <Compile Include="0301-0500\354. 俄罗斯套娃信封问题\Solution_greedy.cs" />
+    <Compile Include="0301-0500\354. 俄罗斯套娃信封问题\Test.cs" />
     <Compile Include="0301-0500\399. 除法求值\Solution.cs" />
     <Compile Include="0301-0500\399. 除法求值\Test.cs" />
     <Compile Include="0301-0500\416. 分割等和子集\Solution.cs" />
