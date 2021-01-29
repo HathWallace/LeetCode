@@ -257,6 +257,9 @@
     <Compile Include="0501-1000\959. 由斜杠划分区域\Test.cs" />
     <Compile Include="0501-1000\989. 数组形式的整数加法\Solution.cs" />
     <Compile Include="0501-1000\989. 数组形式的整数加法\Test.cs" />
+    <Compile Include="1001-\1631. 最小体力消耗路径\Solution_union.cs" />
+    <Compile Include="1001-\1631. 最小体力消耗路径\Solution.cs" />
+    <Compile Include="1001-\1631. 最小体力消耗路径\Test.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="1001-\1046. 最后一块石头的重量\Solution_nosort.cs" />
