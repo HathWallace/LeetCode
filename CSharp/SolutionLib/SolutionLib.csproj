@@ -213,6 +213,9 @@
     <Compile Include="0501-1000\778. 水位上升的泳池中游泳\Test.cs" />
     <Compile Include="0501-1000\839. 相似字符串组\Solution.cs" />
     <Compile Include="0501-1000\839. 相似字符串组\Test.cs" />
+    <Compile Include="0501-1000\888. 公平的糖果棒交换\Solution_hashmap.cs" />
+    <Compile Include="0501-1000\888. 公平的糖果棒交换\Solution.cs" />
+    <Compile Include="0501-1000\888. 公平的糖果棒交换\Test.cs" />
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Solution.cs" />
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Test.cs" />
     <Compile Include="1001-\1128. 等价多米诺骨牌对的数量\Solution.cs" />
