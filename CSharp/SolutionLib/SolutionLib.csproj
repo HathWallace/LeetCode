@@ -204,6 +204,9 @@
     <Compile Include="0301-0500\416. 分割等和子集\Solution.cs" />
     <Compile Include="0301-0500\416. 分割等和子集\Solution_dp.cs" />
     <Compile Include="0301-0500\416. 分割等和子集\Test.cs" />
+    <Compile Include="0301-0500\424. 替换后的最长重复字符\Solution.cs" />
+    <Compile Include="0301-0500\424. 替换后的最长重复字符\Solution_doublept.cs" />
+    <Compile Include="0301-0500\424. 替换后的最长重复字符\Test.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Solution.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Solution_sum.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Test.cs" />
@@ -358,7 +361,9 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="0301-0500\424. 替换后的最长重复字符\Test.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
