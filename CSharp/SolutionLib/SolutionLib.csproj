@@ -188,6 +188,7 @@
     <Compile Include="0001-0050\46. 全排列\Test.cs" />
     <Compile Include="0051-0100\86. 分隔链表\Solution.cs" />
     <Compile Include="0051-0100\86. 分隔链表\Test.cs" />
+    <Compile Include="0301-0500\309. 最佳买卖股票时机含冷冻期\Solution.cs" />
     <Compile Include="0301-0500\312. 戳气球\Solution_dp.cs" />
     <Compile Include="0301-0500\312. 戳气球\Solution.cs" />
     <Compile Include="0301-0500\312. 戳气球\Test.cs" />
@@ -364,6 +365,7 @@
   <ItemGroup>
     <Content Include="0301-0500\424. 替换后的最长重复字符\Test.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
