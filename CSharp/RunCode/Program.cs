@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._1631._最小体力消耗路径;
+using SolutionLib._480._滑动窗口中位数;
 
 namespace RunCode
 {

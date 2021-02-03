@@ -55,6 +55,7 @@ namespace SolutionLib
 
         public static void Print<T>(IEnumerable<T> results)
         {
+            if (results == null) return;
             bool flag = false;
             Console.Write('[');
             foreach (var result in results)
