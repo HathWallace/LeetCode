@@ -107,6 +107,8 @@
     <Compile Include="0051-0100\96. 不同的二叉搜索树\Test.cs" />
     <Compile Include="0051-0100\98. 验证二叉搜索树\Solution.cs" />
     <Compile Include="0051-0100\98. 验证二叉搜索树\Test.cs" />
+    <Compile Include="0051-0100\99. 恢复二叉搜索树\Solution_mirror.cs" />
+    <Compile Include="0051-0100\99. 恢复二叉搜索树\Solution.cs" />
     <Compile Include="0101-0200\101. 对称二叉树\Solution.cs" />
     <Compile Include="0101-0200\101. 对称二叉树\Test.cs" />
     <Compile Include="0101-0200\103. 二叉树的锯齿形层序遍历\Solution.cs" />
