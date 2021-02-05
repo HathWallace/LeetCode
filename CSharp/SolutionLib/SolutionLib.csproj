@@ -236,6 +236,7 @@
     <Compile Include="1001-\1203. 项目管理\Solution.cs" />
     <Compile Include="1001-\1203. 项目管理\Solution_topological.cs" />
     <Compile Include="1001-\1203. 项目管理\Test.cs" />
+    <Compile Include="1001-\1208. 尽可能使字符串相等\Solution.cs" />
     <Compile Include="1001-\1319. 连通网络的操作次数\Solution.cs" />
     <Compile Include="1001-\1319. 连通网络的操作次数\Test.cs" />
     <Compile Include="1001-\1489. 找到最小生成树里的关键边和伪关键边\Solution.cs" />
