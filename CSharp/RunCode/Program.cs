@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._480._滑动窗口中位数;
+using SolutionLib._51._N_皇后;
 
 namespace RunCode
 {
