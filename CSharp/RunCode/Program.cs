@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._51._N_皇后;
+using SolutionLib._752._打开转盘锁;
 
 namespace RunCode
 {

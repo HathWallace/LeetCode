@@ -222,6 +222,8 @@
     <Compile Include="0501-1000\605. 种花问题\Test.cs" />
     <Compile Include="0501-1000\724. 寻找数组的中心索引\Solution.cs" />
     <Compile Include="0501-1000\724. 寻找数组的中心索引\Test.cs" />
+    <Compile Include="0501-1000\752. 打开转盘锁\Solution.cs" />
+    <Compile Include="0501-1000\752. 打开转盘锁\Test.cs" />
     <Compile Include="0501-1000\778. 水位上升的泳池中游泳\Solution.cs" />
     <Compile Include="0501-1000\778. 水位上升的泳池中游泳\Test.cs" />
     <Compile Include="0501-1000\839. 相似字符串组\Solution.cs" />
@@ -373,6 +375,7 @@
   <ItemGroup>
     <Content Include="0301-0500\424. 替换后的最长重复字符\Test.txt" />
     <Content Include="0301-0500\480. 滑动窗口中位数\Test.txt" />
+    <Content Include="0501-1000\752. 打开转盘锁\Test.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
