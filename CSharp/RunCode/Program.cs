@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._752._打开转盘锁;
+using SolutionLib._567._字符串的排列;
 
 namespace RunCode
 {

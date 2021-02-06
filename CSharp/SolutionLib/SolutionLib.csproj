@@ -218,6 +218,9 @@
     <Compile Include="0301-0500\437. 路径总和 III\Test.cs" />
     <Compile Include="0301-0500\480. 滑动窗口中位数\Solution.cs" />
     <Compile Include="0301-0500\480. 滑动窗口中位数\Test.cs" />
+    <Compile Include="0501-1000\567. 字符串的排列\Solution.cs" />
+    <Compile Include="0501-1000\567. 字符串的排列\Solution_slidewindow.cs" />
+    <Compile Include="0501-1000\567. 字符串的排列\Test.cs" />
     <Compile Include="0501-1000\605. 种花问题\Solution.cs" />
     <Compile Include="0501-1000\605. 种花问题\Test.cs" />
     <Compile Include="0501-1000\724. 寻找数组的中心索引\Solution.cs" />
@@ -375,6 +378,7 @@
   <ItemGroup>
     <Content Include="0301-0500\424. 替换后的最长重复字符\Test.txt" />
     <Content Include="0301-0500\480. 滑动窗口中位数\Test.txt" />
+    <Content Include="0501-1000\567. 字符串的排列\Test.txt" />
     <Content Include="0501-1000\752. 打开转盘锁\Test.txt" />
   </ItemGroup>
   <ItemGroup />
