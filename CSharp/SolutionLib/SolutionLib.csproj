@@ -216,6 +216,7 @@
     <Compile Include="0301-0500\437. 路径总和 III\Solution.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Solution_sum.cs" />
     <Compile Include="0301-0500\437. 路径总和 III\Test.cs" />
+    <Compile Include="0301-0500\438. 找到字符串中所有字母异位词\Solution.cs" />
     <Compile Include="0301-0500\480. 滑动窗口中位数\Solution.cs" />
     <Compile Include="0301-0500\480. 滑动窗口中位数\Test.cs" />
     <Compile Include="0501-1000\567. 字符串的排列\Solution.cs" />
