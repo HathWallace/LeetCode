@@ -125,6 +125,7 @@
     <Compile Include="0101-0200\114. 二叉树展开为链表\Solution.cs" />
     <Compile Include="0101-0200\114. 二叉树展开为链表\Solution_mirrors.cs" />
     <Compile Include="0101-0200\114. 二叉树展开为链表\Test.cs" />
+    <Compile Include="0101-0200\118. 杨辉三角\Solution.cs" />
     <Compile Include="0101-0200\121. 买卖股票的最佳时机\Solution.cs" />
     <Compile Include="0101-0200\121. 买卖股票的最佳时机\Test.cs" />
     <Compile Include="0101-0200\123. 买卖股票的最佳时机 III\Solution.cs" />
