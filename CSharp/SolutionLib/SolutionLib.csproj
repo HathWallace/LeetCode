@@ -246,6 +246,8 @@
     <Compile Include="0801-1000\888. 公平的糖果棒交换\Test.cs" />
     <Compile Include="0801-1000\978. 最长湍流子数组\Solution.cs" />
     <Compile Include="0801-1000\978. 最长湍流子数组\Test.cs" />
+    <Compile Include="0801-1000\986. 区间列表的交集\Solution.cs" />
+    <Compile Include="0801-1000\986. 区间列表的交集\Test.cs" />
     <Compile Include="0801-1000\992. K 个不同整数的子数组\Solution.cs" />
     <Compile Include="0801-1000\992. K 个不同整数的子数组\Solution_doublept.cs" />
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Solution.cs" />

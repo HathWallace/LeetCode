@@ -1,5 +1,5 @@
 ﻿using System;
-using SolutionLib._119._杨辉三角_II;
+using SolutionLib._986._区间列表的交集;
 
 namespace RunCode
 {
