@@ -226,6 +226,8 @@
     <Compile Include="0501-0800\567. 字符串的排列\Test.cs" />
     <Compile Include="0501-0800\605. 种花问题\Solution.cs" />
     <Compile Include="0501-0800\605. 种花问题\Test.cs" />
+    <Compile Include="0501-0800\703. 数据流中的第 K 大元素\Solution.cs" />
+    <Compile Include="0501-0800\703. 数据流中的第 K 大元素\Test.cs" />
     <Compile Include="0501-0800\724. 寻找数组的中心索引\Solution.cs" />
     <Compile Include="0501-0800\724. 寻找数组的中心索引\Test.cs" />
     <Compile Include="0501-0800\752. 打开转盘锁\Solution.cs" />
@@ -386,6 +388,7 @@
     <Content Include="0301-0500\424. 替换后的最长重复字符\Test.txt" />
     <Content Include="0301-0500\480. 滑动窗口中位数\Test.txt" />
     <Content Include="0501-0800\567. 字符串的排列\Test.txt" />
+    <Content Include="0501-0800\703. 数据流中的第 K 大元素\Test.txt" />
     <Content Include="0501-0800\752. 打开转盘锁\Test.txt" />
     <Content Include="0801-1000\978. 最长湍流子数组\Test.txt" />
   </ItemGroup>
