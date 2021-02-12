@@ -92,6 +92,7 @@
     <Compile Include="0051-0100\51. N 皇后\Solution_backtrack.cs" />
     <Compile Include="0051-0100\51. N 皇后\Solution.cs" />
     <Compile Include="0051-0100\51. N 皇后\Test.cs" />
+    <Compile Include="0051-0100\56. 合并区间\Solution.cs" />
     <Compile Include="0051-0100\62. 不同路径\Solution_math.cs" />
     <Compile Include="0051-0100\62. 不同路径\Solution.cs" />
     <Compile Include="0051-0100\62. 不同路径\Test.cs" />
