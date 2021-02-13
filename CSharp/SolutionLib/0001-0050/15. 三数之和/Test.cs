@@ -8,7 +8,7 @@ namespace SolutionLib._15._三数之和
     {
         public static void Run()
         {
-            var s = new Solution_doublept();
+            var s = new Solution_general();
             Print(s.ThreeSum(Public.ReadNums()));
         }
 

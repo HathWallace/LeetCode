@@ -73,6 +73,8 @@
     <Compile Include="0001-0050\1. 两数之和\Test.cs" />
     <Compile Include="0001-0050\10. 正则表达式匹配\Solution.cs" />
     <Compile Include="0001-0050\10. 正则表达式匹配\Test.cs" />
+    <Compile Include="0001-0050\15. 三数之和\Solution_general.cs" />
+    <Compile Include="0001-0050\18. 四数之和\Solution.cs" />
     <Compile Include="0001-0050\19. 删除链表的倒数第N个节点\Solution.cs" />
     <Compile Include="0001-0050\19. 删除链表的倒数第N个节点\Test.cs" />
     <Compile Include="0001-0050\2. 两数相加\Solution.cs" />
@@ -393,6 +395,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="0001-0050\15. 三数之和\Test.txt" />
     <Content Include="0301-0500\424. 替换后的最长重复字符\Test.txt" />
     <Content Include="0301-0500\480. 滑动窗口中位数\Test.txt" />
     <Content Include="0501-0800\567. 字符串的排列\Test.txt" />
