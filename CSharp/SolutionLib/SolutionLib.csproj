@@ -241,6 +241,7 @@
     <Compile Include="0501-0800\724. 寻找数组的中心索引\Test.cs" />
     <Compile Include="0501-0800\752. 打开转盘锁\Solution.cs" />
     <Compile Include="0501-0800\752. 打开转盘锁\Test.cs" />
+    <Compile Include="0501-0800\765. 情侣牵手\Solution_BFS.cs" />
     <Compile Include="0501-0800\778. 水位上升的泳池中游泳\Solution.cs" />
     <Compile Include="0501-0800\778. 水位上升的泳池中游泳\Test.cs" />
     <Compile Include="0801-1000\839. 相似字符串组\Solution.cs" />
