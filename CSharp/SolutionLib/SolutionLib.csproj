@@ -255,6 +255,8 @@
     <Compile Include="0801-1000\986. 区间列表的交集\Test.cs" />
     <Compile Include="0801-1000\992. K 个不同整数的子数组\Solution.cs" />
     <Compile Include="0801-1000\992. K 个不同整数的子数组\Solution_doublept.cs" />
+    <Compile Include="0801-1000\995. K 连续位的最小翻转次数\Solution.cs" />
+    <Compile Include="0801-1000\995. K 连续位的最小翻转次数\Solution_slidewindow.cs" />
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Solution.cs" />
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Test.cs" />
     <Compile Include="1001-\1128. 等价多米诺骨牌对的数量\Solution.cs" />
