@@ -101,7 +101,7 @@ namespace SolutionLib
             foreach (var s in str.Split(','))
             {
                 if (s == "") continue;
-                res.Add(s);
+                res.Add(s.Substring(1, s.Length - 2));
             }
 
             return res.ToArray();

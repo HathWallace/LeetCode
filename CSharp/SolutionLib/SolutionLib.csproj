@@ -261,6 +261,9 @@
     <Compile Include="1001-\1018. 可被 5 整除的二进制前缀\Test.cs" />
     <Compile Include="1001-\1128. 等价多米诺骨牌对的数量\Solution.cs" />
     <Compile Include="1001-\1128. 等价多米诺骨牌对的数量\Test.cs" />
+    <Compile Include="1001-\1178. 猜字谜\Solution.cs" />
+    <Compile Include="1001-\1178. 猜字谜\Solution_bitmask.cs" />
+    <Compile Include="1001-\1178. 猜字谜\Test.cs" />
     <Compile Include="1001-\1202. 交换字符串中的元素\Solution.cs" />
     <Compile Include="1001-\1202. 交换字符串中的元素\Solution_unionfind.cs" />
     <Compile Include="1001-\1202. 交换字符串中的元素\Test.cs" />
@@ -407,6 +410,7 @@
     <Content Include="0501-0800\703. 数据流中的第 K 大元素\Test.txt" />
     <Content Include="0501-0800\752. 打开转盘锁\Test.txt" />
     <Content Include="0801-1000\978. 最长湍流子数组\Test.txt" />
+    <Content Include="1001-\1178. 猜字谜\Test.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
