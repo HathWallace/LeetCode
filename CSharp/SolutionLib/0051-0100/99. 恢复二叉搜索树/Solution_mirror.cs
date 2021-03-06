@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace SolutionLib._99._恢复二叉搜索树
+﻿namespace SolutionLib._99._恢复二叉搜索树
 {
     public class Solution_mirror
     {

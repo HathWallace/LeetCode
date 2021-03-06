@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace SolutionLib._547._省份数量
+﻿namespace SolutionLib._547._省份数量
 {
     //DFS
     public class Solution

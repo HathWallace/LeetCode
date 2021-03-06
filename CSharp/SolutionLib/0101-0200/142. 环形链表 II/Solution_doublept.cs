@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace SolutionLib._142._环形链表_II
+﻿namespace SolutionLib._142._环形链表_II
 {
     /**
      * Definition for singly-linked list.

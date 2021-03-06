@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib._1._两数之和
+﻿namespace SolutionLib._1._两数之和
 {
     public class Test
     {

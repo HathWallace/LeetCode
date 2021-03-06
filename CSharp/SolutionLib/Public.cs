@@ -8,7 +8,8 @@ namespace SolutionLib
         public static string ReadStr()
         {
             Console.WriteLine("输入一个字符串：");
-            return ReadLine();
+            string str = ReadLine();
+            return str.Substring(1, str.Length - 2);
         }
 
         public static string[] ReadStrs()

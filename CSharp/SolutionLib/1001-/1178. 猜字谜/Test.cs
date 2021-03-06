@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib._1178._猜字谜
+﻿namespace SolutionLib._1178._猜字谜
 {
     public class Test
     {

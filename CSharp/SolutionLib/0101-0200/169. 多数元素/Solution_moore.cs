@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace SolutionLib._169._多数元素
+﻿namespace SolutionLib._169._多数元素
 {
     public class Solution_moore
     {

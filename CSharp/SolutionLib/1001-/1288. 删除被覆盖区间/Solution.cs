@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace SolutionLib._1288._删除被覆盖区间
 {

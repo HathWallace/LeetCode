@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib._239._滑动窗口最大值
+﻿namespace SolutionLib._239._滑动窗口最大值
 {
     public class Test
     {

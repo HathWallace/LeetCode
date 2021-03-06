@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib._1489._找到最小生成树里的关键边和伪关键边
+﻿namespace SolutionLib._1489._找到最小生成树里的关键边和伪关键边
 {
     public class Test
     {

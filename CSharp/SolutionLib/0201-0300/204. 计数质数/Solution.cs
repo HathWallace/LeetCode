@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace SolutionLib._204._计数质数
+﻿namespace SolutionLib._204._计数质数
 {
     public class Solution2
     {

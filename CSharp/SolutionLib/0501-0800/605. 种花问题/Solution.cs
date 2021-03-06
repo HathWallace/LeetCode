@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib._605._种花问题
+﻿namespace SolutionLib._605._种花问题
 {
     public class Solution
     {

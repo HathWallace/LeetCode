@@ -53,5 +53,14 @@
 
     e.g. [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
 
-12. 
+12. C#常用命名空间
+
+    ```csharp
+    using System;
+    using System.Collections;
+    using System.Collections.Generic;
+    using System.Text;
+    ```
+
+    
 

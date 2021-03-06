@@ -1,7 +1,4 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-namespace SolutionLib._20._有效的括号
+﻿namespace SolutionLib._20._有效的括号
 {
     public class Solution
     {

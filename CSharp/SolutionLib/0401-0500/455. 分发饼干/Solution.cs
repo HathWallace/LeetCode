@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SolutionLib._455._分发饼干
+﻿namespace SolutionLib._455._分发饼干
 {
     public class Solution
     {

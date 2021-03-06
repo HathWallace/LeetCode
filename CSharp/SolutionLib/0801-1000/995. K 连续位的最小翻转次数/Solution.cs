@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace SolutionLib._995._K_连续位的最小翻转次数
+﻿namespace SolutionLib._995._K_连续位的最小翻转次数
 {
     public class Solution
     {
