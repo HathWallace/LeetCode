@@ -54,6 +54,16 @@ namespace SolutionLib
             return ReadList(ReadNums());
         }
 
+        public static void Print<T, U>(IEnumerable<T> results) where T : IEnumerable<U>
+        {
+            if (results == null) return;
+            foreach (var result in results)
+            {
+                Print(result);
+            }
+            Console.WriteLine();
+        }
+
         public static void Print<T>(IEnumerable<T> results)
         {
             if (results == null) return;
@@ -62,11 +72,10 @@ namespace SolutionLib
             foreach (var result in results)
             {
                 if (flag) Console.Write(",");
-                Console.Write(result);
+                Console.Write(result + "\t");
                 flag = true;
             }
             Console.Write(']');
-
             Console.WriteLine();
         }
 
@@ -102,7 +111,7 @@ namespace SolutionLib
             foreach (var s in str.Split(','))
             {
                 if (s == "") continue;
-                res.Add(s.Substring(1, s.Length - 2));
+                res.Add(s);
             }
 
             return res.ToArray();

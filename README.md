@@ -64,3 +64,45 @@
 
     
 
+```csharp
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Exam{
+    class Program{
+        public static void Main(){
+            string line;
+            while((line=Console.ReadLine())!=null){
+            }
+        }
+    }
+    
+    class Solution{
+    }
+    
+}
+```
+
+
+
+```csharp
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Interview{
+    class Program{
+        public static void Main(){
+            
+        }
+    }
+    
+    class Solution{
+    }
+    
+}
+```
+
