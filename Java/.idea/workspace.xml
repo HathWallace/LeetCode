@@ -23,7 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10786af3-4b91-428c-9479-bff68f28e6f2" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SolutionLib.剑指_Offer_32_II._从上到下打印二叉树_II" />
+      <recent name="SolutionLib.剑指_Offer_11._旋转数组的最小数字" />
       <recent name="SolutionLib._83._删除排序链表中的重复元素" />
     </key>
   </component>
@@ -107,6 +111,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="702" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1616852550911">
+      <screen x="0" y="0" width="1795" height="1080" />
+    </state>
+    <state x="702" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616852550911" />
     <state x="668" y="432" width="459" height="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1616636263026">
       <screen x="0" y="0" width="1795" height="1080" />
     </state>
