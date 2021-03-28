@@ -19,13 +19,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10786af3-4b91-428c-9479-bff68f28e6f2" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1616554018477</updated>
     </task>
+    <task id="LOCAL-00001" summary="剑指offer 11 21 32II">
+      <created>1616853526821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616853526821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,12 +115,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="剑指offer 11 21 32II" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer 11 21 32II" />
   </component>
   <component name="WindowStateProjectService">
     <state x="702" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1616852550911">
@@ -171,5 +199,9 @@
       <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state x="377" y="114" key="SettingsEditor/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616637401381" />
+    <state x="489" y="272" key="Vcs.Push.Dialog.v2" timestamp="1616853646263">
+      <screen x="0" y="0" width="1795" height="1080" />
+    </state>
+    <state x="489" y="272" key="Vcs.Push.Dialog.v2/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616853646263" />
   </component>
 </project>
