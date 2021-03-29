@@ -13,6 +13,9 @@ namespace Interview
             string line;
             while ((line = Console.ReadLine()) != null)
             {
+                var set = new HashSet<string>();
+                var res = set.ToArray();
+                var sb=new StringBuilder();
             }
         }
     }

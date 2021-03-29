@@ -29,7 +29,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10786af3-4b91-428c-9479-bff68f28e6f2" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SolutionLib/Public.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionLib/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionLib/_322/_零钱兑换/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionLib/剑指_Offer_24/_反转链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionLib/剑指_Offer_24/_反转链表/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSharp/RunCode/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CSharp/RunCode/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/META-INF/Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/SolutionLib/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/SolutionLib/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616853526821</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="173. 二叉搜索树迭代器">
+      <created>1616896297252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616896297252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="剑指offer 11 21 32II" />
-    <option name="LAST_COMMIT_MESSAGE" value="剑指offer 11 21 32II" />
+    <MESSAGE value="173. 二叉搜索树迭代器" />
+    <option name="LAST_COMMIT_MESSAGE" value="173. 二叉搜索树迭代器" />
   </component>
   <component name="WindowStateProjectService">
     <state x="702" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1616852550911">

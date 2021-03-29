@@ -15,8 +15,15 @@ namespace RunCode
             Console.WriteLine(title + '\n');
             do
             {
-                Test.Run();
-                Console.WriteLine("输入回车继续，其他键退出。\n");
+                try
+                {
+                    Test.Run();
+                    Console.WriteLine("输入回车继续，其他键退出。\n");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
             } while (Console.ReadKey().KeyChar == '\r');
         }
 
