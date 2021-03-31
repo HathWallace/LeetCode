@@ -29,18 +29,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10786af3-4b91-428c-9479-bff68f28e6f2" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SolutionLib/Public.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolutionLib/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolutionLib/_322/_零钱兑换/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolutionLib/剑指_Offer_24/_反转链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolutionLib/剑指_Offer_24/_反转链表/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CSharp/Interview/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSharp/RunCode/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CSharp/RunCode/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/META-INF/Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/SolutionLib/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/SolutionLib/Solution.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +48,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -84,9 +75,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="SolutionLib.剑指_Offer_32_II._从上到下打印二叉树_II" />
-      <recent name="SolutionLib.剑指_Offer_11._旋转数组的最小数字" />
-      <recent name="SolutionLib._83._删除排序链表中的重复元素" />
+      <recent name="SolutionLib._90._子集_II" />
+      <recent name="SolutionLib.剑指_Offer_51._数组中的逆序对" />
+      <recent name="SolutionLib.剑指_Offer_31._栈的压入_弹出序列" />
+      <recent name="SolutionLib.剑指_Offer_68_II._二叉树的最近公共祖先" />
+      <recent name="SolutionLib.剑指_Offer_36._二叉搜索树与双向链表" />
     </key>
   </component>
   <component name="RunManager">
@@ -126,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616896297252</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="零钱兑换、反转链表、Public">
+      <created>1617023531744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617023531744</updated>
+    </task>
+    <task id="LOCAL-00004" summary="零钱兑换、反转链表、Public">
+      <created>1617023611082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617023611082</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,9 +151,31 @@
                       </list>
                     </value>
                   </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/6Coding/Learn/LeetCode/Java" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:D:/6Coding/Learn/LeetCode/Java" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -156,7 +185,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="剑指offer 11 21 32II" />
     <MESSAGE value="173. 二叉搜索树迭代器" />
-    <option name="LAST_COMMIT_MESSAGE" value="173. 二叉搜索树迭代器" />
+    <MESSAGE value="零钱兑换、反转链表、Public" />
+    <option name="LAST_COMMIT_MESSAGE" value="零钱兑换、反转链表、Public" />
   </component>
   <component name="WindowStateProjectService">
     <state x="702" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1616852550911">
@@ -175,53 +205,73 @@
       <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state x="523" y="218" key="#检查/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616636427085" />
-    <state width="1752" height="364" key="GridCell.Tab.0.bottom" timestamp="1616653232215">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="385" height="466" key="DebuggerActiveHint" timestamp="1617153852950">
+      <screen x="0" y="0" width="1795" height="1080" />
+    </state>
+    <state width="385" height="466" key="DebuggerActiveHint/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617153852950" />
+    <state x="677" y="280" key="FileChooserDialogImpl" timestamp="1617101254986">
+      <screen x="0" y="0" width="1795" height="1080" />
+    </state>
+    <state x="677" y="280" key="FileChooserDialogImpl/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617101254986" />
+    <state width="1752" height="295" key="GridCell.Tab.0.bottom" timestamp="1617154519896">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.0.bottom/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232215" />
-    <state width="1752" height="295" key="GridCell.Tab.0.bottom/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616638414569" />
-    <state width="1752" height="364" key="GridCell.Tab.0.center" timestamp="1616653232215">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="1752" height="295" key="GridCell.Tab.0.bottom/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154519896" />
+    <state width="1752" height="295" key="GridCell.Tab.0.center" timestamp="1617154519896">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.0.center/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232215" />
-    <state width="1752" height="295" key="GridCell.Tab.0.center/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616638414569" />
-    <state width="1752" height="364" key="GridCell.Tab.0.left" timestamp="1616653232214">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="1752" height="295" key="GridCell.Tab.0.center/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154519896" />
+    <state width="1752" height="295" key="GridCell.Tab.0.left" timestamp="1617154519896">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.0.left/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232214" />
-    <state width="1752" height="295" key="GridCell.Tab.0.left/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616638414569" />
-    <state width="1752" height="364" key="GridCell.Tab.0.right" timestamp="1616653232215">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="1752" height="295" key="GridCell.Tab.0.left/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154519896" />
+    <state width="1752" height="295" key="GridCell.Tab.0.right" timestamp="1617154519896">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.0.right/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232215" />
-    <state width="1752" height="295" key="GridCell.Tab.0.right/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616638414569" />
-    <state width="1752" height="364" key="GridCell.Tab.1.bottom" timestamp="1616653232216">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="1752" height="295" key="GridCell.Tab.0.right/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154519896" />
+    <state width="1752" height="364" key="GridCell.Tab.1.bottom" timestamp="1617154470635">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.1.bottom/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.bottom/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616637922227" />
-    <state width="1752" height="364" key="GridCell.Tab.1.center" timestamp="1616653232216">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="1752" height="364" key="GridCell.Tab.1.bottom/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154470635" />
+    <state width="1752" height="364" key="GridCell.Tab.1.center" timestamp="1617154470635">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.1.center/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.center/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616637922227" />
-    <state width="1752" height="364" key="GridCell.Tab.1.left" timestamp="1616653232216">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="1752" height="364" key="GridCell.Tab.1.center/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154470635" />
+    <state width="1752" height="364" key="GridCell.Tab.1.left" timestamp="1617154470635">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.1.left/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.left/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616637922227" />
-    <state width="1752" height="364" key="GridCell.Tab.1.right" timestamp="1616653232216">
-      <screen x="-1800" y="0" width="1800" height="1080" />
+    <state width="1752" height="364" key="GridCell.Tab.1.left/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154470635" />
+    <state width="1752" height="364" key="GridCell.Tab.1.right" timestamp="1617154470635">
+      <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state width="1752" height="364" key="GridCell.Tab.1.right/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.right/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616637922227" />
+    <state width="1752" height="364" key="GridCell.Tab.1.right/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154470635" />
     <state x="377" y="114" key="SettingsEditor" timestamp="1616637401381">
       <screen x="0" y="0" width="1795" height="1080" />
     </state>
     <state x="377" y="114" key="SettingsEditor/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616637401381" />
-    <state x="489" y="272" key="Vcs.Push.Dialog.v2" timestamp="1616853646263">
+    <state x="489" y="272" key="Vcs.Push.Dialog.v2" timestamp="1617023788594">
       <screen x="0" y="0" width="1795" height="1080" />
     </state>
-    <state x="489" y="272" key="Vcs.Push.Dialog.v2/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616853646263" />
+    <state x="489" y="272" key="Vcs.Push.Dialog.v2/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617023788594" />
+    <state x="677" y="344" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1617069299976">
+      <screen x="0" y="0" width="1795" height="1080" />
+    </state>
+    <state x="677" y="344" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617069299976" />
+    <state x="428" y="149" key="new project wizard" timestamp="1617101260807">
+      <screen x="0" y="0" width="1795" height="1080" />
+    </state>
+    <state x="428" y="149" key="new project wizard/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617101260807" />
+    <state x="560" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1617154037189">
+      <screen x="0" y="0" width="1795" height="1080" />
+    </state>
+    <state x="560" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617154037189" />
   </component>
 </project>

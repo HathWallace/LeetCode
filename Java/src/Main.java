@@ -1,8 +1,8 @@
-import SolutionLib.剑指_Offer_24._反转链表.Solution;
-import SolutionLib.剑指_Offer_24._反转链表.Test;
+
+import SolutionLib._90._子集_II.Solution;
+import SolutionLib._90._子集_II.Test;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
@@ -16,8 +16,8 @@ public class Main {
         do {
             try {
                 Test.run();
-                System.out.println("输入exit继续，其他键继续。");
-                str = scanner.readLine();
+                System.out.println("输入exit退出，其他键继续。");
+                str = scanner.readLine().toLowerCase();
             } catch (Exception e) {
                 e.printStackTrace();
             }
