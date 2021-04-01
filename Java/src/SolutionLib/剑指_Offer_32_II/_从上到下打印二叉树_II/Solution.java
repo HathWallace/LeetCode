@@ -1,6 +1,6 @@
 package SolutionLib.剑指_Offer_32_II._从上到下打印二叉树_II;
 
-import SolutionLib.TreeNode;
+import UtilLib.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

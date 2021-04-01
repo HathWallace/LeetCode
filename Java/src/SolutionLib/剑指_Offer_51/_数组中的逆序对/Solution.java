@@ -23,7 +23,7 @@ public class Solution {
         int i = left, j = mid + 1, count = 0;
         for (int k = left; k <= right; k++) {
             if (i == mid + 1) nums[k] = tmp[j++];
-            else if (j == right) nums[k] = tmp[i++];
+            else if (j == right + 1) nums[k] = tmp[i++];
             else if (tmp[i] <= tmp[j]) nums[k] = tmp[i++];
             else {
                 nums[k] = tmp[j++];

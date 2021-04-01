@@ -1,15 +1,15 @@
 package SolutionLib._82._删除排序链表中的重复元素_II;
 
-import SolutionLib.ListNode;
+import UtilLib.ListNode;
 
 /**
  * Definition for singly-linked list.
- * public class SolutionLib.ListNode {
+ * public class UtilLib.ListNode {
  * int val;
- * SolutionLib.ListNode next;
- * SolutionLib.ListNode() {}
- * SolutionLib.ListNode(int val) { this.val = val; }
- * SolutionLib.ListNode(int val, SolutionLib.ListNode next) { this.val = val; this.next = next; }
+ * UtilLib.ListNode next;
+ * UtilLib.ListNode() {}
+ * UtilLib.ListNode(int val) { this.val = val; }
+ * UtilLib.ListNode(int val, UtilLib.ListNode next) { this.val = val; this.next = next; }
  * }
  */
 public class Solution {

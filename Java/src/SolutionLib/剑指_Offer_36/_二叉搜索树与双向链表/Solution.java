@@ -1,7 +1,5 @@
 package SolutionLib.剑指_Offer_36._二叉搜索树与双向链表;
 
-import SolutionLib.ListNode;
-
 /*
 // Definition for a Node.
 class Node {

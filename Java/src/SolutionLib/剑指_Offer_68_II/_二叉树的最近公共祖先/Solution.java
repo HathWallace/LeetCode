@@ -1,6 +1,6 @@
 package SolutionLib.剑指_Offer_68_II._二叉树的最近公共祖先;
 
-import SolutionLib.TreeNode;
+import UtilLib.TreeNode;
 
 /**
  * Definition for a binary tree node.

@@ -1,6 +1,6 @@
 package SolutionLib._83._删除排序链表中的重复元素;
 
-import SolutionLib.ListNode;
+import UtilLib.ListNode;
 
 /**
  * Definition for singly-linked list.

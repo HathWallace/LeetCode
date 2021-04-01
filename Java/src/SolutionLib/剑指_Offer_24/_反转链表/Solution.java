@@ -1,6 +1,6 @@
 package SolutionLib.剑指_Offer_24._反转链表;
 
-import SolutionLib.ListNode;
+import UtilLib.ListNode;
 
 /**
  * Definition for singly-linked list.
