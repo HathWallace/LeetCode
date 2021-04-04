@@ -1,6 +1,11 @@
 package UtilLib;
 
-public abstract class AbsCodec<T> {
-    public abstract String serialize(T root);
-    public abstract T deserialize(String data);
+public abstract class AbsCodec {
+    public static <T> String serialize(T root) {
+        return null;
+    }
+
+    public static <T> T deserialize(String data) {
+        return null;
+    }
 }

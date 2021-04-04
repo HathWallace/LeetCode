@@ -1,4 +1,4 @@
-import UtilLib.Test;
+import SolutionLib.剑指_Offer_56_II._数组中数字出现的次数_II.Test;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -19,7 +19,7 @@ public class Main {
                 System.out.println(e.getMessage());
                 e.printStackTrace();
             } finally {
-                System.out.println("输入exit退出，其他键继续。");
+                System.out.print("输入exit退出，其他键继续：");
                 str = scanner.readLine().toLowerCase();
             }
         } while (!str.equals("exit"));
