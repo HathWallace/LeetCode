@@ -3,7 +3,7 @@ package UtilLib;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class TreeNode extends AbsCodec {
+public class TreeNode {
     public static String serialize(TreeNode root) {
         if (root == null) return "[]";
         var dataList = new LinkedList<String>();

@@ -1,10 +1,8 @@
 package UtilLib;
 
-import SolutionLib.剑指_Offer_37._序列化二叉树.Codec;
-
 import java.util.StringJoiner;
 
-public class ListNode extends AbsCodec {
+public class ListNode {
     public static String serialize(ListNode head) {
         var sj = new StringJoiner(",", "[", "]");
         var pt = head;
@@ -13,16 +11,6 @@ public class ListNode extends AbsCodec {
             pt = pt.next;
         }
         return sj.toString();
-    }
-
-    public static ListNode deserialize(String data) {
-        ListNode head = new ListNode(), pt = head;
-        var split = data.substring(1, data.length() - 1).split(",");
-        for (var val : split) {
-            pt.next = new ListNode(Integer.parseInt(val));
-            pt = pt.next;
-        }
-        return head.next;
     }
 
     public int val;
