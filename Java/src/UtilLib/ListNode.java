@@ -13,6 +13,16 @@ public class ListNode {
         return sj.toString();
     }
 
+    public static ListNode deserialize(String data) {
+        ListNode head = new ListNode(), pt = head;
+        var split = data.substring(1, data.length() - 1).split(",");
+        for (var val : split) {
+            pt.next = new ListNode(Integer.parseInt(val));
+            pt = pt.next;
+        }
+        return head.next;
+    }
+
     public int val;
     public ListNode next;
 
