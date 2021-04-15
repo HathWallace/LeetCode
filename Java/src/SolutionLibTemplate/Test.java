@@ -1,3 +1,5 @@
+package SolutionLibTemplate;
+
 import UtilLib.ACM_IO;
 
 public class Test {

@@ -1,5 +1,5 @@
+import SolutionLib2._1483._树节点的第K个祖先.Test;
 import UtilLib.ACM_IO;
-import SolutionLib2._25._K个一组翻转链表.Test;
 
 import java.io.BufferedReader;
 import java.io.IOException;
