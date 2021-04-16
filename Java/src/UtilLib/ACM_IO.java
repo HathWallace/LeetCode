@@ -18,7 +18,15 @@ public class ACM_IO {
     }
 
     public String getStr() {
-        return readLine();
+        String str = readLine();
+        if (str.charAt(0) == '"') {
+            str = str.substring(1, str.length() - 1);
+        }
+        return str;
+    }
+
+    public void println() {
+        System.out.println();
     }
 
     public void println(int val) {
@@ -31,6 +39,10 @@ public class ACM_IO {
             sj.add(String.valueOf(nums[i]));
         }
         System.out.println(sj.toString());
+    }
+
+    public void println(boolean flag) {
+        System.out.println(flag);
     }
 
     public void println(String str) {
