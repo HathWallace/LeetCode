@@ -3,8 +3,6 @@
 ### 介绍
 个人做题笔记本
 
-
-
 ### 小记
 
 1. 动态规划：构建适宜的转移方程
@@ -51,7 +49,7 @@
 
     [C# 字符串按 ASCII码 排序，注意其中的小坑](https://www.cnblogs.com/similar/p/6739293.html)
 
-    e.g. [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
+    e.g.[721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
 
 12. C#常用命名空间
 
@@ -62,47 +60,11 @@
     using System.Text;
     ```
 
-    
+13. TreeMap、TreeSet
 
-```csharp
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Text;
+    e.g.[220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
 
-namespace Exam{
-    class Program{
-        public static void Main(){
-            string line;
-            while((line=Console.ReadLine())!=null){
-            }
-        }
-    }
-    
-    class Solution{
-    }
-    
-}
-```
+14. LinkedHashSet
 
-
-
-```csharp
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Interview{
-    class Program{
-        public static void Main(){
-            
-        }
-    }
-    
-    class Solution{
-    }
-    
-}
-```
+    e.g.[146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)、[460. LFU 缓存](https://leetcode-cn.com/problems/lfu-cache/)
 
