@@ -17,6 +17,10 @@ public class ACM_IO {
         return readInts(readLine());
     }
 
+    public int[][] getMaxtrix() {
+        return readIntss(readLine());
+    }
+
     public String getStr() {
         String str = readLine();
         if (str.charAt(0) == '"') {
@@ -65,6 +69,21 @@ public class ACM_IO {
         }
         int n = res.size();
         var input = new int[n];
+        for (int i = 0; i < n; i++) {
+            input[i] = res.get(i);
+        }
+        return input;
+    }
+
+    private int[][] readIntss(String line) {
+        List<int[]> res = new ArrayList<>();
+        line = line.substring(1, line.length() - 1);
+        line = line.replace("],[", "]![");
+        for (var num : line.split("!")) {
+            res.add(readInts(num));
+        }
+        int n = res.size();
+        var input = new int[n][];
         for (int i = 0; i < n; i++) {
             input[i] = res.get(i);
         }

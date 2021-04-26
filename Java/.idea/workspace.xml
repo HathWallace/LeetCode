@@ -1,127 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10786af3-4b91-428c-9479-bff68f28e6f2" name="默认的" comment="">
+    <list default="true" id="1926d24b-b7e7-4a80-99af-f6894369b499" name="默认变更列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SolutionLibTemplate/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolutionLibTemplate/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin File" />
-        <option value="JUnit5 Test Class" />
-        <option value="Interface" />
-        <option value="package-info" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="RESET_MODE" value="SOFT" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\6Develop\javalib" />
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fa6468b4-307e-49fc-aaaa-be5ebd92fe70" />
+        <option name="url" value="git@github.com:HathWallace/LeetCode.git" />
+      </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectId" id="1qBXa43weoFsgIMy4G4lTkYjRID" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="1" id="新增" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SolutionLib2/_5/_最长回文子串" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="SolutionLib.剑指_Offer_37._序列化二叉树" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="SolutionLib2._222._完全二叉树的节点个数" />
-      <recent name="SolutionLib2._460._LFU缓存" />
-      <recent name="SolutionLib2._25._K个一组翻转链表" />
-      <recent name="SolutionLib2._76._最小覆盖子串" />
-      <recent name="SolutionLib2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\6Coding\Learn\LeetCode\Java\src\SolutionLib2\_5\_最长回文子串" />
-      <recent name="D:\6Coding\Learn\LeetCode\Java\src\SolutionLib2\_28\_实现strStr" />
-      <recent name="D:\6Coding\Learn\LeetCode\Java\src\SolutionLib2\KMP" />
-      <recent name="D:\6Coding\Learn\LeetCode\Java\src\SolutionLib2\_220\_存在重复元素_III" />
-      <recent name="D:\7Coding\LeetCode\Java\src\SolutionLib2\_460\_LFU缓存" />
-    </key>
   </component>
   <component name="RunManager" selected="应用程序.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SolutionLib2.KMP.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SolutionLib2.KMP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java" />
@@ -136,80 +45,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.Try" />
-        <item itemvalue="应用程序.Main (1)" />
+        <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="10786af3-4b91-428c-9479-bff68f28e6f2" name="默认的" comment="" />
-      <created>1616554018477</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1616554018477</updated>
-    </task>
-    <task id="LOCAL-00001" summary="剑指offer 11 21 32II">
-      <created>1616853526821</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1616853526821</updated>
-    </task>
-    <task id="LOCAL-00002" summary="173. 二叉搜索树迭代器">
-      <created>1616896297252</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1616896297252</updated>
-    </task>
-    <task id="LOCAL-00003" summary="零钱兑换、反转链表、Public">
-      <created>1617023531744</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1617023531744</updated>
-    </task>
-    <task id="LOCAL-00004" summary="零钱兑换、反转链表、Public">
-      <created>1617023611082</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1617023611082</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Test类">
-      <created>1617155270220</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1617155270220</updated>
-    </task>
-    <task id="LOCAL-00006" summary="刷题、重构输入方法">
-      <created>1617260349781</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1617260349781</updated>
-    </task>
-    <task id="LOCAL-00007" summary="4.2刷题">
-      <created>1617525808034</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1617525808034</updated>
-    </task>
-    <task id="LOCAL-00008" summary="4.9-4.12刷题，增加ACM_IO类更改输入模式">
-      <created>1618215268789</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1618215268789</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,226 +73,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Paths">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="dir:D:/6Coding/Learn/LeetCode/Java" />
-                </option>
-              </RecentGroup>
-            </list>
+            <State />
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指offer 11 21 32II" />
-    <MESSAGE value="173. 二叉搜索树迭代器" />
-    <MESSAGE value="零钱兑换、反转链表、Public" />
-    <MESSAGE value="Test类" />
-    <MESSAGE value="刷题、重构输入方法" />
-    <MESSAGE value="4.2刷题" />
-    <MESSAGE value="4.9-4.12刷题，增加ACM_IO类更改输入模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.9-4.12刷题，增加ACM_IO类更改输入模式" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="549" y="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1618395269773">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state x="549" y="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618395269773" />
-    <state x="702" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1617259108276">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="702" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617259108276" />
-    <state x="628" y="315" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1617256749837">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="628" y="315" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617256749837" />
-    <state x="668" y="432" width="459" height="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617329719431">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="668" y="432" width="459" height="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617329719431" />
-    <state x="668" y="445" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1617259824806">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="668" y="445" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617259824806" />
-    <state x="537" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618562211391">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="537" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618562211391" />
-    <state x="-1343" y="433" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617933068226" />
-    <state x="562" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618213301867" />
-    <state x="627" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617260177514" />
-    <state x="534" y="227" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1617720787004">
-      <screen x="0" y="0" width="1607" height="960" />
-    </state>
-    <state x="534" y="227" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617720787004" />
-    <state x="489" y="198" key="#意图" timestamp="1617260137455">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="489" y="198" key="#意图/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617260137455" />
-    <state x="523" y="218" key="#检查" timestamp="1617351865385">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="523" y="218" key="#检查/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617351865385" />
-    <state width="394" height="415" key="DebuggerActiveHint" timestamp="1618635298407">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="394" height="415" key="DebuggerActiveHint/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618635298407" />
-    <state width="385" height="466" key="DebuggerActiveHint/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617257241273" />
-    <state x="606" y="249" key="FileChooserDialogImpl" timestamp="1618800269883">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state x="579" y="214" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618499395548" />
-    <state x="606" y="249" key="FileChooserDialogImpl/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618800269883" />
-    <state x="677" y="280" key="FileChooserDialogImpl/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617101254986" />
-    <state width="1564" height="221" key="GridCell.Tab.0.bottom" timestamp="1618927802376">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.0.bottom/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.0.bottom/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="221" key="GridCell.Tab.0.bottom/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802376" />
-    <state width="1752" height="364" key="GridCell.Tab.0.bottom/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232215" />
-    <state width="1752" height="295" key="GridCell.Tab.0.bottom/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475511" />
-    <state width="1564" height="221" key="GridCell.Tab.0.center" timestamp="1618927802376">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.0.center/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.0.center/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="221" key="GridCell.Tab.0.center/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802376" />
-    <state width="1752" height="364" key="GridCell.Tab.0.center/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232215" />
-    <state width="1752" height="295" key="GridCell.Tab.0.center/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475511" />
-    <state width="1564" height="221" key="GridCell.Tab.0.left" timestamp="1618927802376">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.0.left/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.0.left/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="221" key="GridCell.Tab.0.left/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802376" />
-    <state width="1752" height="364" key="GridCell.Tab.0.left/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232214" />
-    <state width="1752" height="295" key="GridCell.Tab.0.left/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475511" />
-    <state width="1564" height="221" key="GridCell.Tab.0.right" timestamp="1618927802376">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.0.right/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.0.right/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="221" key="GridCell.Tab.0.right/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802376" />
-    <state width="1752" height="364" key="GridCell.Tab.0.right/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232215" />
-    <state width="1752" height="295" key="GridCell.Tab.0.right/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475511" />
-    <state width="1564" height="315" key="GridCell.Tab.1.bottom" timestamp="1618927802368">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.1.bottom/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.1.bottom/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="315" key="GridCell.Tab.1.bottom/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802368" />
-    <state width="1752" height="364" key="GridCell.Tab.1.bottom/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.bottom/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475505" />
-    <state width="1564" height="315" key="GridCell.Tab.1.center" timestamp="1618927802368">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.1.center/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.1.center/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="315" key="GridCell.Tab.1.center/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802368" />
-    <state width="1752" height="364" key="GridCell.Tab.1.center/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.center/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475505" />
-    <state width="1564" height="315" key="GridCell.Tab.1.left" timestamp="1618927802368">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.1.left/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.1.left/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="315" key="GridCell.Tab.1.left/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802368" />
-    <state width="1752" height="364" key="GridCell.Tab.1.left/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.left/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475505" />
-    <state width="1564" height="315" key="GridCell.Tab.1.right" timestamp="1618927802368">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state width="896" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618563659217" />
-    <state width="781" height="316" key="GridCell.Tab.1.right/0.0.1607.960/-1858.204.1474.864@0.0.1607.960" timestamp="1617721068606" />
-    <state width="1431" height="277" key="GridCell.Tab.1.right/0.0.1608.960/-1858.204.1474.864@-1858.204.1474.864" timestamp="1617950151182" />
-    <state width="1564" height="315" key="GridCell.Tab.1.right/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618927802368" />
-    <state width="1752" height="364" key="GridCell.Tab.1.right/0.0.1795.1080/-1800.0.1800.1080@-1800.0.1800.1080" timestamp="1616653232216" />
-    <state width="1752" height="364" key="GridCell.Tab.1.right/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617355475505" />
-    <state x="261" y="135" key="SettingsEditor" timestamp="1617848896300">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state x="261" y="135" key="SettingsEditor/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1617848896300" />
-    <state x="377" y="114" key="SettingsEditor/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1616637401381" />
-    <state x="438" y="242" key="Vcs.Push.Dialog.v2" timestamp="1618215274477">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state x="438" y="242" key="Vcs.Push.Dialog.v2/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618215274477" />
-    <state x="489" y="272" key="Vcs.Push.Dialog.v2/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617260427609" />
-    <state x="93" y="93" width="1422" height="775" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618207862094">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state x="93" y="93" width="1422" height="775" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618207862094" />
-    <state x="596" y="431" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617155869927">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="596" y="431" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617155869927" />
-    <state x="643" y="331" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1617257812052">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="643" y="331" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617257812052" />
-    <state x="499" y="268" width="797" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1617328880161">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="499" y="268" width="797" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617328880161" />
-    <state x="-1954" y="350" width="1063" height="605" maximized="true" key="dock-window-1" timestamp="1618277504216">
-      <screen x="-1858" y="204" width="1474" height="864" />
-    </state>
-    <state x="-1954" y="350" width="1063" height="605" maximized="true" key="dock-window-1/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618277504216" />
-    <state x="677" y="344" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1617069299976">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="677" y="344" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617069299976" />
-    <state x="428" y="149" key="new project wizard" timestamp="1617101260807">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="428" y="149" key="new project wizard/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617101260807" />
-    <state x="554" y="250" key="run.anything.popup" timestamp="1617327741066">
-      <screen x="0" y="0" width="1795" height="1080" />
-    </state>
-    <state x="554" y="250" key="run.anything.popup/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617327741066" />
-    <state x="502" y="209" width="672" height="603" key="search.everywhere.popup" timestamp="1618800326677">
-      <screen x="0" y="0" width="1608" height="960" />
-    </state>
-    <state x="480" y="179" width="672" height="518" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618573452242" />
-    <state x="502" y="209" width="672" height="603" key="search.everywhere.popup/0.0.1608.960/-1858.204.1474.864@0.0.1608.960" timestamp="1618800326677" />
-    <state x="560" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1795.1080/-1800.0.1800.1080@0.0.1795.1080" timestamp="1617351802517" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
@@ -444,11 +86,5 @@
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="i + arm" language="JAVA" />
-        <watch expression="sb.charAt(i)" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
