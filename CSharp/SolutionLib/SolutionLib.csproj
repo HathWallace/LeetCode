@@ -274,6 +274,8 @@
     <Compile Include="1001-\1288. 删除被覆盖区间\Solution.cs" />
     <Compile Include="1001-\1319. 连通网络的操作次数\Solution.cs" />
     <Compile Include="1001-\1319. 连通网络的操作次数\Test.cs" />
+    <Compile Include="1001-\1360. 日期之间隔几天\Solution.cs" />
+    <Compile Include="1001-\1360. 日期之间隔几天\Solution_to_int.cs" />
     <Compile Include="1001-\1489. 找到最小生成树里的关键边和伪关键边\Solution.cs" />
     <Compile Include="1001-\1489. 找到最小生成树里的关键边和伪关键边\Solution_enumerate.cs" />
     <Compile Include="1001-\1489. 找到最小生成树里的关键边和伪关键边\Test.cs" />
