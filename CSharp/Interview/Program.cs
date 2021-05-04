@@ -9,57 +9,45 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            string line;
-            while ((line = Console.ReadLine()) != null)
-            {
-                var split = line.Split(' ');
-                int row = int.Parse(split[0]), col = int.Parse(split[1]), time = int.Parse(split[2]);
-                var graph = new int[row][];
-                for (int i = 0; i < row; i++)
-                {
-                    line = Console.ReadLine();
-                    graph[i] = new int[col];
-                    split = line.Split(' ');
-                    for (int j = 0; j < col; j++)
-                    {
-                        graph[i][j] = int.Parse(split[j]);
-                    }
-
-                }
-                Console.WriteLine(new Solution().GetBestPath(graph, time));
-            }
+            int[] nums = new[] { 3, 2, 4, 1, 5 };
+            Console.WriteLine(string.Join(",", nums));
+            new Solution().FastSort(nums);
+            Console.WriteLine(string.Join(",", nums));
+            Console.ReadKey();
         }
     }
 
     class Solution
     {
-        private int[][] graph;
-        private int ans = -1, row, col, total;
-
-        public int GetBestPath(int[][] graph, int time)
+        public void FastSort(int[] nums)
         {
-            this.graph = graph;
-            row = graph.Length;
-            col = graph[0].Length;
-            total = time;
-            Backtrack(0, 0, time);
-            return ans;
+            FastSort(nums, 0, nums.Length - 1);
         }
 
-        private void Backtrack(int i, int j, int remain)
+        private void FastSort(int[] nums, int left, int right)
         {
-            if (i == row || j == col) return;
-            remain -= graph[i][j];
-            if (remain < 0) return;
-            if (i == row - 1 && j == col - 1)
+            if (right - left <= 0) return;
+            int partition = nums[left], lo = left, hi = right + 1;
+            while (true)
             {
-                ans = Math.Max(ans, total - remain);
-                return;
+                lo++;
+                hi--;
+                while (nums[lo] < partition && lo <= right) lo++;
+                while (nums[hi] > partition && hi > left) hi--;
+                if (lo >= hi) break;
+                Swap(nums, lo, hi);
             }
-            Backtrack(i + 1, j, remain);
-            Backtrack(i, j + 1, remain);
+            Swap(nums, hi, left);
+            FastSort(nums, left, hi - 1);
+            FastSort(nums, hi + 1, right);
         }
 
+        private void Swap(int[] nums, int x, int y)
+        {
+            int tmp = nums[x];
+            nums[x] = nums[y];
+            nums[y] = tmp;
+        }
     }
 
 }
